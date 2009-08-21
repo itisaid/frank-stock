@@ -1,0 +1,6529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+	<tr bgcolor="eff0f8">
+		<td width="100">000001</td>
+		<td width="100">深发展Ａ</td>
+		<td width="100">000002</td>
+		<td width="100">深万科Ａ</td>
+	</tr>
+	<tr>
+		<td width="100">000002</td>
+		<td width="100">深万科Ａ</td>
+		<td width="100">000003</td>
+		<td width="100">PT金田A</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000004</td>
+		<td width="100">北大高科</td>
+		<td width="100">000005</td>
+		<td width="100">ST星源</td>
+	</tr>
+	<tr>
+		<td width="100">000005</td>
+		<td width="100">ST星源</td>
+		<td width="100">000006</td>
+		<td width="100">深振业Ａ</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000007</td>
+		<td width="100">深达声Ａ</td>
+		<td width="100">000008</td>
+		<td width="100">ST亿安</td>
+	</tr>
+	<tr>
+		<td width="100">000008</td>
+		<td width="100">ST亿安</td>
+		<td width="100">000009</td>
+		<td width="100">深宝安Ａ</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000010</td>
+		<td width="100">ST深华新</td>
+		<td width="100">000011</td>
+		<td width="100">ST深物业</td>
+	</tr>
+	<tr>
+		<td width="100">000011</td>
+		<td width="100">ST深物业</td>
+		<td width="100">000012</td>
+		<td width="100">南玻科控</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000013</td>
+		<td width="100">ST石化Ａ</td>
+		<td width="100">000014</td>
+		<td width="100">沙河股份</td>
+	</tr>
+	<tr>
+		<td width="100">000014</td>
+		<td width="100">沙河股份</td>
+		<td width="100">000015</td>
+		<td width="100">PT中浩A</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000016</td>
+		<td width="100">深康佳Ａ</td>
+		<td width="100">000017</td>
+		<td width="100">ST中华Ａ</td>
+	</tr>
+	<tr>
+		<td width="100">000017</td>
+		<td width="100">ST中华Ａ</td>
+		<td width="100">000018</td>
+		<td width="100">深中冠Ａ</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000019</td>
+		<td width="100">深深宝Ａ</td>
+		<td width="100">000020</td>
+		<td width="100">深华发Ａ</td>
+	</tr>
+	<tr>
+		<td width="100">000020</td>
+		<td width="100">深华发Ａ</td>
+		<td width="100">000021</td>
+		<td width="100">深科技Ａ</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000022</td>
+		<td width="100">深赤湾Ａ</td>
+		<td width="100">000023</td>
+		<td width="100">深天地Ａ</td>
+	</tr>
+	<tr>
+		<td width="100">000023</td>
+		<td width="100">深天地Ａ</td>
+		<td width="100">000024</td>
+		<td width="100">招商局Ａ</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000025</td>
+		<td width="100">ST特力A</td>
+		<td width="100">000026</td>
+		<td width="100">飞亚达Ａ</td>
+	</tr>
+	<tr>
+		<td width="100">000026</td>
+		<td width="100">飞亚达Ａ</td>
+		<td width="100">000027</td>
+		<td width="100">深能源Ａ</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000028</td>
+		<td width="100">一致药业</td>
+		<td width="100">000029</td>
+		<td width="100">深深房Ａ</td>
+	</tr>
+	<tr>
+		<td width="100">000029</td>
+		<td width="100">深深房Ａ</td>
+		<td width="100">000030</td>
+		<td width="100">ST盛润Ａ</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000031</td>
+		<td width="100">深宝恒Ａ</td>
+		<td width="100">000032</td>
+		<td width="100">深桑达Ａ</td>
+	</tr>
+	<tr>
+		<td width="100">000032</td>
+		<td width="100">深桑达Ａ</td>
+		<td width="100">000033</td>
+		<td width="100">新都酒店</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000034</td>
+		<td width="100">深信泰丰</td>
+		<td width="100">000035</td>
+		<td width="100">中科健Ａ</td>
+	</tr>
+	<tr>
+		<td width="100">000035</td>
+		<td width="100">中科健Ａ</td>
+		<td width="100">000036</td>
+		<td width="100">华联控股</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000037</td>
+		<td width="100">深南电Ａ</td>
+		<td width="100">000038</td>
+		<td width="100">ST深大通</td>
+	</tr>
+	<tr>
+		<td width="100">000038</td>
+		<td width="100">ST深大通</td>
+		<td width="100">000039</td>
+		<td width="100">中集集团</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000040</td>
+		<td width="100">ST鸿基</td>
+		<td width="100">000042</td>
+		<td width="100">深长城Ａ</td>
+	</tr>
+	<tr>
+		<td width="100">000042</td>
+		<td width="100">深长城Ａ</td>
+		<td width="100">000043</td>
+		<td width="100">深南光Ａ</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000045</td>
+		<td width="100">深纺织Ａ</td>
+		<td width="100">000046</td>
+		<td width="100">光彩建设</td>
+	</tr>
+	<tr>
+		<td width="100">000046</td>
+		<td width="100">光彩建设</td>
+		<td width="100">000047</td>
+		<td width="100">ST中侨</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000048</td>
+		<td width="100">ST康达尔</td>
+		<td width="100">000049</td>
+		<td width="100">深万山Ａ</td>
+	</tr>
+	<tr>
+		<td width="100">000049</td>
+		<td width="100">深万山Ａ</td>
+		<td width="100">000050</td>
+		<td width="100">深天马Ａ</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000055</td>
+		<td width="100">方大A</td>
+		<td width="100">000056</td>
+		<td width="100">深国商</td>
+	</tr>
+	<tr>
+		<td width="100">000056</td>
+		<td width="100">深国商</td>
+		<td width="100">000058</td>
+		<td width="100">深赛格</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000059</td>
+		<td width="100">辽通化工</td>
+		<td width="100">000060</td>
+		<td width="100">中金岭南</td>
+	</tr>
+	<tr>
+		<td width="100">000060</td>
+		<td width="100">中金岭南</td>
+		<td width="100">000061</td>
+		<td width="100">农产品</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000062</td>
+		<td width="100">深圳华强</td>
+		<td width="100">000063</td>
+		<td width="100">中兴通讯</td>
+	</tr>
+	<tr>
+		<td width="100">000063</td>
+		<td width="100">中兴通讯</td>
+		<td width="100">000065</td>
+		<td width="100">北方国际</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000066</td>
+		<td width="100">长城电脑</td>
+		<td width="100">000068</td>
+		<td width="100">赛格三星</td>
+	</tr>
+	<tr>
+		<td width="100">000068</td>
+		<td width="100">赛格三星</td>
+		<td width="100">000069</td>
+		<td width="100">华侨城Ａ</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000070</td>
+		<td width="100">特发信息</td>
+		<td width="100">000078</td>
+		<td width="100">海王生物</td>
+	</tr>
+	<tr>
+		<td width="100">000078</td>
+		<td width="100">海王生物</td>
+		<td width="100">000088</td>
+		<td width="100">盐田港Ａ</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000089</td>
+		<td width="100">深圳机场</td>
+		<td width="100">000090</td>
+		<td width="100">深天健</td>
+	</tr>
+	<tr>
+		<td width="100">000090</td>
+		<td width="100">深天健</td>
+		<td width="100">000096</td>
+		<td width="100">广聚能源</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000099</td>
+		<td width="100">中信海直</td>
+		<td width="100">000150</td>
+		<td width="100">ST麦科特</td>
+	</tr>
+	<tr>
+		<td width="100">000150</td>
+		<td width="100">ST麦科特</td>
+		<td width="100">000151</td>
+		<td width="100">中成股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000153</td>
+		<td width="100">丰原药业</td>
+		<td width="100">000155</td>
+		<td width="100">川化股份</td>
+	</tr>
+	<tr>
+		<td width="100">000155</td>
+		<td width="100">川化股份</td>
+		<td width="100">000156</td>
+		<td width="100">安塑股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000157</td>
+		<td width="100">中联重科</td>
+		<td width="100">000158</td>
+		<td width="100">常山股份</td>
+	</tr>
+	<tr>
+		<td width="100">000158</td>
+		<td width="100">常山股份</td>
+		<td width="100">000159</td>
+		<td width="100">国际实业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000301</td>
+		<td width="100">丝绸股份</td>
+		<td width="100">000400</td>
+		<td width="100">许继电气</td>
+	</tr>
+	<tr>
+		<td width="100">000400</td>
+		<td width="100">许继电气</td>
+		<td width="100">000401</td>
+		<td width="100">冀东水泥</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000402</td>
+		<td width="100">金融街</td>
+		<td width="100">000403</td>
+		<td width="100">三九生化</td>
+	</tr>
+	<tr>
+		<td width="100">000403</td>
+		<td width="100">三九生化</td>
+		<td width="100">000404</td>
+		<td width="100">华意压缩</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000405</td>
+		<td width="100">ST鑫光</td>
+		<td width="100">000406</td>
+		<td width="100">石油大明</td>
+	</tr>
+	<tr>
+		<td width="100">000406</td>
+		<td width="100">石油大明</td>
+		<td width="100">000407</td>
+		<td width="100">胜利股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000408</td>
+		<td width="100">河北华玉</td>
+		<td width="100">000409</td>
+		<td width="100">ST四通</td>
+	</tr>
+	<tr>
+		<td width="100">000409</td>
+		<td width="100">ST四通</td>
+		<td width="100">000410</td>
+		<td width="100">沈阳机床</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000411</td>
+		<td width="100">ST英特</td>
+		<td width="100">000412</td>
+		<td width="100">ST五环</td>
+	</tr>
+	<tr>
+		<td width="100">000412</td>
+		<td width="100">ST五环</td>
+		<td width="100">000413</td>
+		<td width="100">宝石Ａ</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000415</td>
+		<td width="100">汇通水利</td>
+		<td width="100">000416</td>
+		<td width="100">健特生物</td>
+	</tr>
+	<tr>
+		<td width="100">000416</td>
+		<td width="100">健特生物</td>
+		<td width="100">000417</td>
+		<td width="100">合肥百货</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000418</td>
+		<td width="100">ST天鹅A</td>
+		<td width="100">000419</td>
+		<td width="100">通程控股</td>
+	</tr>
+	<tr>
+		<td width="100">000419</td>
+		<td width="100">通程控股</td>
+		<td width="100">000420</td>
+		<td width="100">吉林化纤</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000421</td>
+		<td width="100">南京中北</td>
+		<td width="100">000422</td>
+		<td width="100">湖北宜化</td>
+	</tr>
+	<tr>
+		<td width="100">000422</td>
+		<td width="100">湖北宜化</td>
+		<td width="100">000423</td>
+		<td width="100">东阿阿胶</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000425</td>
+		<td width="100">徐工科技</td>
+		<td width="100">000426</td>
+		<td width="100">富龙热力</td>
+	</tr>
+	<tr>
+		<td width="100">000426</td>
+		<td width="100">富龙热力</td>
+		<td width="100">000428</td>
+		<td width="100">华天酒店</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000429</td>
+		<td width="100">粤高速Ａ</td>
+		<td width="100">000430</td>
+		<td width="100">张家界</td>
+	</tr>
+	<tr>
+		<td width="100">000430</td>
+		<td width="100">张家界</td>
+		<td width="100">000488</td>
+		<td width="100">晨鸣纸业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000498</td>
+		<td width="100">ST丹化</td>
+		<td width="100">000501</td>
+		<td width="100">鄂武商Ａ</td>
+	</tr>
+	<tr>
+		<td width="100">000501</td>
+		<td width="100">鄂武商Ａ</td>
+		<td width="100">000502</td>
+		<td width="100">恒大地产</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000503</td>
+		<td width="100">海虹控股</td>
+		<td width="100">000504</td>
+		<td width="100">赛迪传媒</td>
+	</tr>
+	<tr>
+		<td width="100">000504</td>
+		<td width="100">赛迪传媒</td>
+		<td width="100">000505</td>
+		<td width="100">ST珠江</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000506</td>
+		<td width="100">东泰控股</td>
+		<td width="100">000507</td>
+		<td width="100">粤富华</td>
+	</tr>
+	<tr>
+		<td width="100">000507</td>
+		<td width="100">粤富华</td>
+		<td width="100">000508</td>
+		<td width="100">琼民源</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000509</td>
+		<td width="100">天歌科技</td>
+		<td width="100">000510</td>
+		<td width="100">金路集团</td>
+	</tr>
+	<tr>
+		<td width="100">000510</td>
+		<td width="100">金路集团</td>
+		<td width="100">000511</td>
+		<td width="100">银基发展</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000513</td>
+		<td width="100">丽珠集团</td>
+		<td width="100">000514</td>
+		<td width="100">渝开发Ａ</td>
+	</tr>
+	<tr>
+		<td width="100">000514</td>
+		<td width="100">渝开发Ａ</td>
+		<td width="100">000515</td>
+		<td width="100">渝钛白</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000516</td>
+		<td width="100">陕解放Ａ</td>
+		<td width="100">000517</td>
+		<td width="100">甬成功</td>
+	</tr>
+	<tr>
+		<td width="100">000517</td>
+		<td width="100">甬成功</td>
+		<td width="100">000518</td>
+		<td width="100">四环生物</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000519</td>
+		<td width="100">银河创新</td>
+		<td width="100">000520</td>
+		<td width="100">中国凤凰</td>
+	</tr>
+	<tr>
+		<td width="100">000520</td>
+		<td width="100">中国凤凰</td>
+		<td width="100">000521</td>
+		<td width="100">美菱电器</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000522</td>
+		<td width="100">ST白云山</td>
+		<td width="100">000523</td>
+		<td width="100">广州浪奇</td>
+	</tr>
+	<tr>
+		<td width="100">000523</td>
+		<td width="100">广州浪奇</td>
+		<td width="100">000524</td>
+		<td width="100">东方宾馆</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000525</td>
+		<td width="100">红太阳</td>
+		<td width="100">000526</td>
+		<td width="100">好时光</td>
+	</tr>
+	<tr>
+		<td width="100">000526</td>
+		<td width="100">好时光</td>
+		<td width="100">000527</td>
+		<td width="100">粤美的Ａ</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000528</td>
+		<td width="100">桂柳工Ａ</td>
+		<td width="100">000529</td>
+		<td width="100">ST美雅</td>
+	</tr>
+	<tr>
+		<td width="100">000529</td>
+		<td width="100">ST美雅</td>
+		<td width="100">000530</td>
+		<td width="100">大冷股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000531</td>
+		<td width="100">穗恒运Ａ</td>
+		<td width="100">000532</td>
+		<td width="100">粤华电Ａ</td>
+	</tr>
+	<tr>
+		<td width="100">000532</td>
+		<td width="100">粤华电Ａ</td>
+		<td width="100">000533</td>
+		<td width="100">万家乐Ａ</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000534</td>
+		<td width="100">汕电力Ａ</td>
+		<td width="100">000535</td>
+		<td width="100">ST猴王</td>
+	</tr>
+	<tr>
+		<td width="100">000535</td>
+		<td width="100">ST猴王</td>
+		<td width="100">000536</td>
+		<td width="100">ST闽闽东</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000537</td>
+		<td width="100">南开戈德</td>
+		<td width="100">000538</td>
+		<td width="100">云南白药</td>
+	</tr>
+	<tr>
+		<td width="100">000538</td>
+		<td width="100">云南白药</td>
+		<td width="100">000539</td>
+		<td width="100">粤电力Ａ</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000540</td>
+		<td width="100">世纪中天</td>
+		<td width="100">000541</td>
+		<td width="100">佛山照明</td>
+	</tr>
+	<tr>
+		<td width="100">000541</td>
+		<td width="100">佛山照明</td>
+		<td width="100">000542</td>
+		<td width="100">TCL通讯</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000543</td>
+		<td width="100">皖能电力</td>
+		<td width="100">000544</td>
+		<td width="100">ST白鸽</td>
+	</tr>
+	<tr>
+		<td width="100">000544</td>
+		<td width="100">ST白鸽</td>
+		<td width="100">000545</td>
+		<td width="100">恒和制药</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000546</td>
+		<td width="100">ST吉轻工</td>
+		<td width="100">000547</td>
+		<td width="100">闽福发Ａ</td>
+	</tr>
+	<tr>
+		<td width="100">000547</td>
+		<td width="100">闽福发Ａ</td>
+		<td width="100">000548</td>
+		<td width="100">湖南投资</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000549</td>
+		<td width="100">湘火炬Ａ</td>
+		<td width="100">000550</td>
+		<td width="100">ST江铃</td>
+	</tr>
+	<tr>
+		<td width="100">000550</td>
+		<td width="100">ST江铃</td>
+		<td width="100">000551</td>
+		<td width="100">创元科技</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000552</td>
+		<td width="100">长风特电</td>
+		<td width="100">000553</td>
+		<td width="100">沙隆达Ａ</td>
+	</tr>
+	<tr>
+		<td width="100">000553</td>
+		<td width="100">沙隆达Ａ</td>
+		<td width="100">000554</td>
+		<td width="100">泰山石油</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000555</td>
+		<td width="100">ST太光</td>
+		<td width="100">000556</td>
+		<td width="100">PT南洋</td>
+	</tr>
+	<tr>
+		<td width="100">000556</td>
+		<td width="100">PT南洋</td>
+		<td width="100">000557</td>
+		<td width="100">ST银广夏</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000558</td>
+		<td width="100">莱茵置业</td>
+		<td width="100">000559</td>
+		<td width="100">万向钱潮</td>
+	</tr>
+	<tr>
+		<td width="100">000559</td>
+		<td width="100">万向钱潮</td>
+		<td width="100">000560</td>
+		<td width="100">昆百大</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000561</td>
+		<td width="100">ST长岭</td>
+		<td width="100">000562</td>
+		<td width="100">宏源证券</td>
+	</tr>
+	<tr>
+		<td width="100">000562</td>
+		<td width="100">宏源证券</td>
+		<td width="100">000563</td>
+		<td width="100">陕国投Ａ</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000564</td>
+		<td width="100">西安民生</td>
+		<td width="100">000565</td>
+		<td width="100">渝三峡Ａ</td>
+	</tr>
+	<tr>
+		<td width="100">000565</td>
+		<td width="100">渝三峡Ａ</td>
+		<td width="100">000566</td>
+		<td width="100">ST海药</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000567</td>
+		<td width="100">琼海德Ａ</td>
+		<td width="100">000568</td>
+		<td width="100">泸州老窖</td>
+	</tr>
+	<tr>
+		<td width="100">000568</td>
+		<td width="100">泸州老窖</td>
+		<td width="100">000569</td>
+		<td width="100">川投长钢</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000570</td>
+		<td width="100">ST常柴Ａ</td>
+		<td width="100">000571</td>
+		<td width="100">ST新大洲</td>
+	</tr>
+	<tr>
+		<td width="100">000571</td>
+		<td width="100">ST新大洲</td>
+		<td width="100">000572</td>
+		<td width="100">ST金盘</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000573</td>
+		<td width="100">粤宏远Ａ</td>
+		<td width="100">000576</td>
+		<td width="100">广东甘化</td>
+	</tr>
+	<tr>
+		<td width="100">000576</td>
+		<td width="100">广东甘化</td>
+		<td width="100">000578</td>
+		<td width="100">数码网络</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000581</td>
+		<td width="100">威孚高科</td>
+		<td width="100">000582</td>
+		<td width="100">北海新力</td>
+	</tr>
+	<tr>
+		<td width="100">000582</td>
+		<td width="100">北海新力</td>
+		<td width="100">000583</td>
+		<td width="100">托普软件</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000584</td>
+		<td width="100">蜀都Ａ</td>
+		<td width="100">000585</td>
+		<td width="100">ST东北电</td>
+	</tr>
+	<tr>
+		<td width="100">000585</td>
+		<td width="100">ST东北电</td>
+		<td width="100">000586</td>
+		<td width="100">ST汇源</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000587</td>
+		<td width="100">光明家具</td>
+		<td width="100">000588</td>
+		<td width="100">PT粤金曼</td>
+	</tr>
+	<tr>
+		<td width="100">000588</td>
+		<td width="100">PT粤金曼</td>
+		<td width="100">000589</td>
+		<td width="100">黔轮胎Ａ</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000590</td>
+		<td width="100">紫光古汉</td>
+		<td width="100">000591</td>
+		<td width="100">桐君阁</td>
+	</tr>
+	<tr>
+		<td width="100">000591</td>
+		<td width="100">桐君阁</td>
+		<td width="100">000592</td>
+		<td width="100">ST昌源</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000593</td>
+		<td width="100">成都华联</td>
+		<td width="100">000594</td>
+		<td width="100">ST宏峰</td>
+	</tr>
+	<tr>
+		<td width="100">000594</td>
+		<td width="100">ST宏峰</td>
+		<td width="100">000595</td>
+		<td width="100">西北轴承</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000596</td>
+		<td width="100">古井贡Ａ</td>
+		<td width="100">000597</td>
+		<td width="100">东北药</td>
+	</tr>
+	<tr>
+		<td width="100">000597</td>
+		<td width="100">东北药</td>
+		<td width="100">000598</td>
+		<td width="100">蓝星清洗</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000599</td>
+		<td width="100">青岛双星</td>
+		<td width="100">000600</td>
+		<td width="100">国际大厦</td>
+	</tr>
+	<tr>
+		<td width="100">000600</td>
+		<td width="100">国际大厦</td>
+		<td width="100">000601</td>
+		<td width="100">韶能股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000602</td>
+		<td width="100">金马集团</td>
+		<td width="100">000603</td>
+		<td width="100">ST威达</td>
+	</tr>
+	<tr>
+		<td width="100">000603</td>
+		<td width="100">ST威达</td>
+		<td width="100">000605</td>
+		<td width="100">四环药业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000606</td>
+		<td width="100">青海明胶</td>
+		<td width="100">000607</td>
+		<td width="100">华立控股</td>
+	</tr>
+	<tr>
+		<td width="100">000607</td>
+		<td width="100">华立控股</td>
+		<td width="100">000608</td>
+		<td width="100">阳光股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000609</td>
+		<td width="100">燕化高新</td>
+		<td width="100">000610</td>
+		<td width="100">西安旅游</td>
+	</tr>
+	<tr>
+		<td width="100">000610</td>
+		<td width="100">西安旅游</td>
+		<td width="100">000611</td>
+		<td width="100">时代科技</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000612</td>
+		<td width="100">焦作万方</td>
+		<td width="100">000613</td>
+		<td width="100">ST东海Ａ</td>
+	</tr>
+	<tr>
+		<td width="100">000613</td>
+		<td width="100">ST东海Ａ</td>
+		<td width="100">000615</td>
+		<td width="100">湖北金环</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000616</td>
+		<td width="100">亿城股份</td>
+		<td width="100">000617</td>
+		<td width="100">石油济柴</td>
+	</tr>
+	<tr>
+		<td width="100">000617</td>
+		<td width="100">石油济柴</td>
+		<td width="100">000618</td>
+		<td width="100">ST吉化</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000619</td>
+		<td width="100">海螺型材</td>
+		<td width="100">000620</td>
+		<td width="100">ST圣方科</td>
+	</tr>
+	<tr>
+		<td width="100">000620</td>
+		<td width="100">ST圣方科</td>
+		<td width="100">000621</td>
+		<td width="100">ST比特</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000622</td>
+		<td width="100">岳阳恒立</td>
+		<td width="100">000623</td>
+		<td width="100">吉林敖东</td>
+	</tr>
+	<tr>
+		<td width="100">000623</td>
+		<td width="100">吉林敖东</td>
+		<td width="100">000625</td>
+		<td width="100">长安汽车</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000626</td>
+		<td width="100">如意集团</td>
+		<td width="100">000627</td>
+		<td width="100">百科药业</td>
+	</tr>
+	<tr>
+		<td width="100">000627</td>
+		<td width="100">百科药业</td>
+		<td width="100">000628</td>
+		<td width="100">倍特高新</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000629</td>
+		<td width="100">新钢钒</td>
+		<td width="100">000630</td>
+		<td width="100">铜都铜业</td>
+	</tr>
+	<tr>
+		<td width="100">000630</td>
+		<td width="100">铜都铜业</td>
+		<td width="100">000631</td>
+		<td width="100">兰宝信息</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000632</td>
+		<td width="100">三木集团</td>
+		<td width="100">000633</td>
+		<td width="100">合金投资</td>
+	</tr>
+	<tr>
+		<td width="100">000633</td>
+		<td width="100">合金投资</td>
+		<td width="100">000635</td>
+		<td width="100">ST英化</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000636</td>
+		<td width="100">风华高科</td>
+		<td width="100">000637</td>
+		<td width="100">茂化实华</td>
+	</tr>
+	<tr>
+		<td width="100">000637</td>
+		<td width="100">茂化实华</td>
+		<td width="100">000638</td>
+		<td width="100">ST辽国际</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000639</td>
+		<td width="100">金德发展</td>
+		<td width="100">000650</td>
+		<td width="100">九江化纤</td>
+	</tr>
+	<tr>
+		<td width="100">000650</td>
+		<td width="100">九江化纤</td>
+		<td width="100">000651</td>
+		<td width="100">格力电器</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000652</td>
+		<td width="100">泰达股份</td>
+		<td width="100">000653</td>
+		<td width="100">ST九州</td>
+	</tr>
+	<tr>
+		<td width="100">000653</td>
+		<td width="100">ST九州</td>
+		<td width="100">000655</td>
+		<td width="100">华光陶瓷</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000656</td>
+		<td width="100">ST东源</td>
+		<td width="100">000657</td>
+		<td width="100">中钨高新</td>
+	</tr>
+	<tr>
+		<td width="100">000657</td>
+		<td width="100">中钨高新</td>
+		<td width="100">000658</td>
+		<td width="100">ST海洋</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000659</td>
+		<td width="100">珠海中富</td>
+		<td width="100">000660</td>
+		<td width="100">南华西</td>
+	</tr>
+	<tr>
+		<td width="100">000660</td>
+		<td width="100">南华西</td>
+		<td width="100">000661</td>
+		<td width="100">长春高新</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000662</td>
+		<td width="100">广西红日</td>
+		<td width="100">000663</td>
+		<td width="100">永安林业</td>
+	</tr>
+	<tr>
+		<td width="100">000663</td>
+		<td width="100">永安林业</td>
+		<td width="100">000665</td>
+		<td width="100">武汉塑料</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000666</td>
+		<td width="100">经纬纺机</td>
+		<td width="100">000667</td>
+		<td width="100">华一投资</td>
+	</tr>
+	<tr>
+		<td width="100">000667</td>
+		<td width="100">华一投资</td>
+		<td width="100">000668</td>
+		<td width="100">武汉石油</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000669</td>
+		<td width="100">中讯科技</td>
+		<td width="100">000670</td>
+		<td width="100">天发股份</td>
+	</tr>
+	<tr>
+		<td width="100">000670</td>
+		<td width="100">天发股份</td>
+		<td width="100">000671</td>
+		<td width="100">石狮新发</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000672</td>
+		<td width="100">铜城集团</td>
+		<td width="100">000673</td>
+		<td width="100">大同水泥</td>
+	</tr>
+	<tr>
+		<td width="100">000673</td>
+		<td width="100">大同水泥</td>
+		<td width="100">000675</td>
+		<td width="100">ST银山</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000676</td>
+		<td width="100">思达高科</td>
+		<td width="100">000677</td>
+		<td width="100">山东海龙</td>
+	</tr>
+	<tr>
+		<td width="100">000677</td>
+		<td width="100">山东海龙</td>
+		<td width="100">000678</td>
+		<td width="100">ST襄轴</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000679</td>
+		<td width="100">大连友谊</td>
+		<td width="100">000680</td>
+		<td width="100">山推股份</td>
+	</tr>
+	<tr>
+		<td width="100">000680</td>
+		<td width="100">山推股份</td>
+		<td width="100">000681</td>
+		<td width="100">远东股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000682</td>
+		<td width="100">ST东方</td>
+		<td width="100">000683</td>
+		<td width="100">天然碱</td>
+	</tr>
+	<tr>
+		<td width="100">000683</td>
+		<td width="100">天然碱</td>
+		<td width="100">000685</td>
+		<td width="100">公用科技</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000686</td>
+		<td width="100">锦州六陆</td>
+		<td width="100">000687</td>
+		<td width="100">保定天鹅</td>
+	</tr>
+	<tr>
+		<td width="100">000687</td>
+		<td width="100">保定天鹅</td>
+		<td width="100">000688</td>
+		<td width="100">朝华集团</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000689</td>
+		<td width="100">ST宏业</td>
+		<td width="100">000690</td>
+		<td width="100">宝丽华</td>
+	</tr>
+	<tr>
+		<td width="100">000690</td>
+		<td width="100">宝丽华</td>
+		<td width="100">000691</td>
+		<td width="100">寰岛实业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000692</td>
+		<td width="100">惠天热电</td>
+		<td width="100">000693</td>
+		<td width="100">聚友网络</td>
+	</tr>
+	<tr>
+		<td width="100">000693</td>
+		<td width="100">聚友网络</td>
+		<td width="100">000695</td>
+		<td width="100">ST灯塔</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000696</td>
+		<td width="100">96国债(6)</td>
+		<td width="100">000697</td>
+		<td width="100">咸阳偏转</td>
+	</tr>
+	<tr>
+		<td width="100">000697</td>
+		<td width="100">咸阳偏转</td>
+		<td width="100">000698</td>
+		<td width="100">沈阳化工</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000699</td>
+		<td width="100">ST佳纸</td>
+		<td width="100">000700</td>
+		<td width="100">模塑科技</td>
+	</tr>
+	<tr>
+		<td width="100">000700</td>
+		<td width="100">模塑科技</td>
+		<td width="100">000701</td>
+		<td width="100">厦门信达</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000702</td>
+		<td width="100">正虹科技</td>
+		<td width="100">000703</td>
+		<td width="100">世纪光华</td>
+	</tr>
+	<tr>
+		<td width="100">000703</td>
+		<td width="100">世纪光华</td>
+		<td width="100">000705</td>
+		<td width="100">浙江震元</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000707</td>
+		<td width="100">双环科技</td>
+		<td width="100">000708</td>
+		<td width="100">大冶特钢</td>
+	</tr>
+	<tr>
+		<td width="100">000708</td>
+		<td width="100">大冶特钢</td>
+		<td width="100">000709</td>
+		<td width="100">唐钢股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000710</td>
+		<td width="100">ST天仪</td>
+		<td width="100">000711</td>
+		<td width="100">天伦置业</td>
+	</tr>
+	<tr>
+		<td width="100">000711</td>
+		<td width="100">天伦置业</td>
+		<td width="100">000712</td>
+		<td width="100">锦龙发展</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000713</td>
+		<td width="100">丰乐种业</td>
+		<td width="100">000715</td>
+		<td width="100">中兴商业</td>
+	</tr>
+	<tr>
+		<td width="100">000715</td>
+		<td width="100">中兴商业</td>
+		<td width="100">000716</td>
+		<td width="100">广西斯壮</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000717</td>
+		<td width="100">韶钢松山</td>
+		<td width="100">000718</td>
+		<td width="100">ST吉纸</td>
+	</tr>
+	<tr>
+		<td width="100">000718</td>
+		<td width="100">ST吉纸</td>
+		<td width="100">000719</td>
+		<td width="100">焦作鑫安</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000720</td>
+		<td width="100">鲁能泰山</td>
+		<td width="100">000721</td>
+		<td width="100">西安饮食</td>
+	</tr>
+	<tr>
+		<td width="100">000721</td>
+		<td width="100">西安饮食</td>
+		<td width="100">000722</td>
+		<td width="100">金果实业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000723</td>
+		<td width="100">天宇电气</td>
+		<td width="100">000725</td>
+		<td width="100">京东方Ａ</td>
+	</tr>
+	<tr>
+		<td width="100">000725</td>
+		<td width="100">京东方Ａ</td>
+		<td width="100">000726</td>
+		<td width="100">鲁泰Ａ</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000727</td>
+		<td width="100">华东科技</td>
+		<td width="100">000728</td>
+		<td width="100">北京化二</td>
+	</tr>
+	<tr>
+		<td width="100">000728</td>
+		<td width="100">北京化二</td>
+		<td width="100">000729</td>
+		<td width="100">燕京啤酒</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000730</td>
+		<td width="100">环保股份</td>
+		<td width="100">000731</td>
+		<td width="100">四川美丰</td>
+	</tr>
+	<tr>
+		<td width="100">000731</td>
+		<td width="100">四川美丰</td>
+		<td width="100">000732</td>
+		<td width="100">福建三农</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000733</td>
+		<td width="100">振华科技</td>
+		<td width="100">000735</td>
+		<td width="100">罗牛山</td>
+	</tr>
+	<tr>
+		<td width="100">000735</td>
+		<td width="100">罗牛山</td>
+		<td width="100">000736</td>
+		<td width="100">重庆实业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000737</td>
+		<td width="100">南风化工</td>
+		<td width="100">000738</td>
+		<td width="100">ST南摩</td>
+	</tr>
+	<tr>
+		<td width="100">000738</td>
+		<td width="100">ST南摩</td>
+		<td width="100">000739</td>
+		<td width="100">普洛药业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000748</td>
+		<td width="100">湘计算机</td>
+		<td width="100">000750</td>
+		<td width="100">桂林集琦</td>
+	</tr>
+	<tr>
+		<td width="100">000750</td>
+		<td width="100">桂林集琦</td>
+		<td width="100">000751</td>
+		<td width="100">锌业股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000752</td>
+		<td width="100">西藏发展</td>
+		<td width="100">000753</td>
+		<td width="100">漳州发展</td>
+	</tr>
+	<tr>
+		<td width="100">000753</td>
+		<td width="100">漳州发展</td>
+		<td width="100">000755</td>
+		<td width="100">山西三维</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000756</td>
+		<td width="100">新华制药</td>
+		<td width="100">000757</td>
+		<td width="100">方向光电</td>
+	</tr>
+	<tr>
+		<td width="100">000757</td>
+		<td width="100">方向光电</td>
+		<td width="100">000758</td>
+		<td width="100">中色建设</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000759</td>
+		<td width="100">武汉中百</td>
+		<td width="100">000760</td>
+		<td width="100">博盈投资</td>
+	</tr>
+	<tr>
+		<td width="100">000760</td>
+		<td width="100">博盈投资</td>
+		<td width="100">000761</td>
+		<td width="100">ST板材</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000762</td>
+		<td width="100">西藏矿业</td>
+		<td width="100">000763</td>
+		<td width="100">锦州石化</td>
+	</tr>
+	<tr>
+		<td width="100">000763</td>
+		<td width="100">锦州石化</td>
+		<td width="100">000765</td>
+		<td width="100">ST华信</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000766</td>
+		<td width="100">通化金马</td>
+		<td width="100">000767</td>
+		<td width="100">漳泽电力</td>
+	</tr>
+	<tr>
+		<td width="100">000767</td>
+		<td width="100">漳泽电力</td>
+		<td width="100">000768</td>
+		<td width="100">西飞国际</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000769</td>
+		<td width="100">菲菲农业</td>
+		<td width="100">000776</td>
+		<td width="100">延边公路</td>
+	</tr>
+	<tr>
+		<td width="100">000776</td>
+		<td width="100">延边公路</td>
+		<td width="100">000777</td>
+		<td width="100">中核科技</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000778</td>
+		<td width="100">新兴铸管</td>
+		<td width="100">000779</td>
+		<td width="100">三毛派神</td>
+	</tr>
+	<tr>
+		<td width="100">000779</td>
+		<td width="100">三毛派神</td>
+		<td width="100">000780</td>
+		<td width="100">草原兴发</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000782</td>
+		<td width="100">美达股份</td>
+		<td width="100">000783</td>
+		<td width="100">石炼化</td>
+	</tr>
+	<tr>
+		<td width="100">000783</td>
+		<td width="100">石炼化</td>
+		<td width="100">000785</td>
+		<td width="100">武汉中商</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000786</td>
+		<td width="100">北新建材</td>
+		<td width="100">000787</td>
+		<td width="100">创智科技</td>
+	</tr>
+	<tr>
+		<td width="100">000787</td>
+		<td width="100">创智科技</td>
+		<td width="100">000788</td>
+		<td width="100">ST合成</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000789</td>
+		<td width="100">江西水泥</td>
+		<td width="100">000790</td>
+		<td width="100">华神集团</td>
+	</tr>
+	<tr>
+		<td width="100">000790</td>
+		<td width="100">华神集团</td>
+		<td width="100">000791</td>
+		<td width="100">西北化工</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000792</td>
+		<td width="100">盐湖钾肥</td>
+		<td width="100">000793</td>
+		<td width="100">燃气股份</td>
+	</tr>
+	<tr>
+		<td width="100">000793</td>
+		<td width="100">燃气股份</td>
+		<td width="100">000795</td>
+		<td width="100">太原刚玉</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000796</td>
+		<td width="100">宝商集团</td>
+		<td width="100">000797</td>
+		<td width="100">中国武夷</td>
+	</tr>
+	<tr>
+		<td width="100">000797</td>
+		<td width="100">中国武夷</td>
+		<td width="100">000798</td>
+		<td width="100">中水渔业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000799</td>
+		<td width="100">湘酒鬼</td>
+		<td width="100">000800</td>
+		<td width="100">一汽轿车</td>
+	</tr>
+	<tr>
+		<td width="100">000800</td>
+		<td width="100">一汽轿车</td>
+		<td width="100">000801</td>
+		<td width="100">ST湖山</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000802</td>
+		<td width="100">京西旅游</td>
+		<td width="100">000803</td>
+		<td width="100">美亚股份</td>
+	</tr>
+	<tr>
+		<td width="100">000803</td>
+		<td width="100">美亚股份</td>
+		<td width="100">000805</td>
+		<td width="100">炎黄物流</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000806</td>
+		<td width="100">银河科技</td>
+		<td width="100">000807</td>
+		<td width="100">云铝股份</td>
+	</tr>
+	<tr>
+		<td width="100">000807</td>
+		<td width="100">云铝股份</td>
+		<td width="100">000809</td>
+		<td width="100">ST一纺</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000810</td>
+		<td width="100">华润锦华</td>
+		<td width="100">000811</td>
+		<td width="100">烟台冰轮</td>
+	</tr>
+	<tr>
+		<td width="100">000811</td>
+		<td width="100">烟台冰轮</td>
+		<td width="100">000812</td>
+		<td width="100">陕西金叶</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000813</td>
+		<td width="100">天山纺织</td>
+		<td width="100">000815</td>
+		<td width="100">美利纸业</td>
+	</tr>
+	<tr>
+		<td width="100">000815</td>
+		<td width="100">美利纸业</td>
+		<td width="100">000816</td>
+		<td width="100">江淮动力</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000817</td>
+		<td width="100">辽河油田</td>
+		<td width="100">000818</td>
+		<td width="100">锦化氯碱</td>
+	</tr>
+	<tr>
+		<td width="100">000818</td>
+		<td width="100">锦化氯碱</td>
+		<td width="100">000819</td>
+		<td width="100">岳阳兴长</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000820</td>
+		<td width="100">金城股份</td>
+		<td width="100">000821</td>
+		<td width="100">京山轻机</td>
+	</tr>
+	<tr>
+		<td width="100">000821</td>
+		<td width="100">京山轻机</td>
+		<td width="100">000822</td>
+		<td width="100">山东海化</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000823</td>
+		<td width="100">超声电子</td>
+		<td width="100">000825</td>
+		<td width="100">太钢不锈</td>
+	</tr>
+	<tr>
+		<td width="100">000825</td>
+		<td width="100">太钢不锈</td>
+		<td width="100">000826</td>
+		<td width="100">国投原宜</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000827</td>
+		<td width="100">长兴实业</td>
+		<td width="100">000828</td>
+		<td width="100">福地科技</td>
+	</tr>
+	<tr>
+		<td width="100">000828</td>
+		<td width="100">福地科技</td>
+		<td width="100">000829</td>
+		<td width="100">赣南果业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000830</td>
+		<td width="100">鲁西化工</td>
+		<td width="100">000831</td>
+		<td width="100">关铝股份</td>
+	</tr>
+	<tr>
+		<td width="100">000831</td>
+		<td width="100">关铝股份</td>
+		<td width="100">000832</td>
+		<td width="100">龙涤股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000833</td>
+		<td width="100">贵糖股份</td>
+		<td width="100">000835</td>
+		<td width="100">隆源双登</td>
+	</tr>
+	<tr>
+		<td width="100">000835</td>
+		<td width="100">隆源双登</td>
+		<td width="100">000836</td>
+		<td width="100">天大天财</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000837</td>
+		<td width="100">秦川发展</td>
+		<td width="100">000838</td>
+		<td width="100">ST西化机</td>
+	</tr>
+	<tr>
+		<td width="100">000838</td>
+		<td width="100">ST西化机</td>
+		<td width="100">000839</td>
+		<td width="100">中信国安</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000848</td>
+		<td width="100">承德露露</td>
+		<td width="100">000850</td>
+		<td width="100">华茂股份</td>
+	</tr>
+	<tr>
+		<td width="100">000850</td>
+		<td width="100">华茂股份</td>
+		<td width="100">000851</td>
+		<td width="100">ST七砂</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000852</td>
+		<td width="100">江钻股份</td>
+		<td width="100">000856</td>
+		<td width="100">唐山陶瓷</td>
+	</tr>
+	<tr>
+		<td width="100">000856</td>
+		<td width="100">唐山陶瓷</td>
+		<td width="100">000858</td>
+		<td width="100">五粮液</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000859</td>
+		<td width="100">国风塑业</td>
+		<td width="100">000860</td>
+		<td width="100">顺鑫农业</td>
+	</tr>
+	<tr>
+		<td width="100">000860</td>
+		<td width="100">顺鑫农业</td>
+		<td width="100">000861</td>
+		<td width="100">茂化永业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000862</td>
+		<td width="100">吴忠仪表</td>
+		<td width="100">000863</td>
+		<td width="100">和光商务</td>
+	</tr>
+	<tr>
+		<td width="100">000863</td>
+		<td width="100">和光商务</td>
+		<td width="100">000866</td>
+		<td width="100">扬子石化</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000868</td>
+		<td width="100">安凯客车</td>
+		<td width="100">000869</td>
+		<td width="100">张裕A</td>
+	</tr>
+	<tr>
+		<td width="100">000869</td>
+		<td width="100">张裕A</td>
+		<td width="100">000875</td>
+		<td width="100">吉电股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000876</td>
+		<td width="100">新希望</td>
+		<td width="100">000877</td>
+		<td width="100">天山股份</td>
+	</tr>
+	<tr>
+		<td width="100">000877</td>
+		<td width="100">天山股份</td>
+		<td width="100">000878</td>
+		<td width="100">云南铜业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000880</td>
+		<td width="100">山东巨力</td>
+		<td width="100">000881</td>
+		<td width="100">大连国际</td>
+	</tr>
+	<tr>
+		<td width="100">000881</td>
+		<td width="100">大连国际</td>
+		<td width="100">000882</td>
+		<td width="100">华联股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000883</td>
+		<td width="100">三环股份</td>
+		<td width="100">000885</td>
+		<td width="100">ST春都</td>
+	</tr>
+	<tr>
+		<td width="100">000885</td>
+		<td width="100">ST春都</td>
+		<td width="100">000886</td>
+		<td width="100">海南高速</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000887</td>
+		<td width="100">飞彩股份</td>
+		<td width="100">000888</td>
+		<td width="100">峨眉山Ａ</td>
+	</tr>
+	<tr>
+		<td width="100">000888</td>
+		<td width="100">峨眉山Ａ</td>
+		<td width="100">000889</td>
+		<td width="100">渤海物流</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000890</td>
+		<td width="100">法尔胜</td>
+		<td width="100">000892</td>
+		<td width="100">长丰通信</td>
+	</tr>
+	<tr>
+		<td width="100">000892</td>
+		<td width="100">长丰通信</td>
+		<td width="100">000893</td>
+		<td width="100">广州冷机</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000895</td>
+		<td width="100">双汇发展</td>
+		<td width="100">000896</td>
+		<td width="100">96国债(8)</td>
+	</tr>
+	<tr>
+		<td width="100">000896</td>
+		<td width="100">96国债(8)</td>
+		<td width="100">000897</td>
+		<td width="100">津滨发展</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000898</td>
+		<td width="100">鞍钢新轧</td>
+		<td width="100">000899</td>
+		<td width="100">赣能股份</td>
+	</tr>
+	<tr>
+		<td width="100">000899</td>
+		<td width="100">赣能股份</td>
+		<td width="100">000900</td>
+		<td width="100">现代投资</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000901</td>
+		<td width="100">航天科技</td>
+		<td width="100">000902</td>
+		<td width="100">中国服装</td>
+	</tr>
+	<tr>
+		<td width="100">000902</td>
+		<td width="100">中国服装</td>
+		<td width="100">000903</td>
+		<td width="100">云内动力</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000905</td>
+		<td width="100">厦门路桥</td>
+		<td width="100">000906</td>
+		<td width="100">南方建材</td>
+	</tr>
+	<tr>
+		<td width="100">000906</td>
+		<td width="100">南方建材</td>
+		<td width="100">000908</td>
+		<td width="100">天一科技</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000909</td>
+		<td width="100">数源科技</td>
+		<td width="100">000910</td>
+		<td width="100">大亚科技</td>
+	</tr>
+	<tr>
+		<td width="100">000910</td>
+		<td width="100">大亚科技</td>
+		<td width="100">000911</td>
+		<td width="100">南宁糖业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000912</td>
+		<td width="100">泸天化</td>
+		<td width="100">000913</td>
+		<td width="100">钱江摩托</td>
+	</tr>
+	<tr>
+		<td width="100">000913</td>
+		<td width="100">钱江摩托</td>
+		<td width="100">000915</td>
+		<td width="100">山大华特</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000916</td>
+		<td width="100">华北高速</td>
+		<td width="100">000917</td>
+		<td width="100">电广传媒</td>
+	</tr>
+	<tr>
+		<td width="100">000917</td>
+		<td width="100">电广传媒</td>
+		<td width="100">000918</td>
+		<td width="100">亚华种业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000919</td>
+		<td width="100">金陵药业</td>
+		<td width="100">000920</td>
+		<td width="100">南方汇通</td>
+	</tr>
+	<tr>
+		<td width="100">000920</td>
+		<td width="100">南方汇通</td>
+		<td width="100">000921</td>
+		<td width="100">科龙电器</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000922</td>
+		<td width="100">阿继电器</td>
+		<td width="100">000923</td>
+		<td width="100">河北宣工</td>
+	</tr>
+	<tr>
+		<td width="100">000923</td>
+		<td width="100">河北宣工</td>
+		<td width="100">000925</td>
+		<td width="100">浙大海纳</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000926</td>
+		<td width="100">福星科技</td>
+		<td width="100">000927</td>
+		<td width="100">ST夏利</td>
+	</tr>
+	<tr>
+		<td width="100">000927</td>
+		<td width="100">ST夏利</td>
+		<td width="100">000928</td>
+		<td width="100">吉林炭素</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000929</td>
+		<td width="100">兰州黄河</td>
+		<td width="100">000930</td>
+		<td width="100">丰原生化</td>
+	</tr>
+	<tr>
+		<td width="100">000930</td>
+		<td width="100">丰原生化</td>
+		<td width="100">000931</td>
+		<td width="100">中关村</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000932</td>
+		<td width="100">华菱管线</td>
+		<td width="100">000933</td>
+		<td width="100">神火股份</td>
+	</tr>
+	<tr>
+		<td width="100">000933</td>
+		<td width="100">神火股份</td>
+		<td width="100">000935</td>
+		<td width="100">四川双马</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000936</td>
+		<td width="100">华西村</td>
+		<td width="100">000937</td>
+		<td width="100">金牛能源</td>
+	</tr>
+	<tr>
+		<td width="100">000937</td>
+		<td width="100">金牛能源</td>
+		<td width="100">000938</td>
+		<td width="100">清华紫光</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000939</td>
+		<td width="100">凯迪电力</td>
+		<td width="100">000948</td>
+		<td width="100">南天信息</td>
+	</tr>
+	<tr>
+		<td width="100">000948</td>
+		<td width="100">南天信息</td>
+		<td width="100">000949</td>
+		<td width="100">新乡化纤</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000950</td>
+		<td width="100">民丰农化</td>
+		<td width="100">000951</td>
+		<td width="100">ST小鸭</td>
+	</tr>
+	<tr>
+		<td width="100">000951</td>
+		<td width="100">ST小鸭</td>
+		<td width="100">000952</td>
+		<td width="100">广济药业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000953</td>
+		<td width="100">河池化工</td>
+		<td width="100">000955</td>
+		<td width="100">欣龙无纺</td>
+	</tr>
+	<tr>
+		<td width="100">000955</td>
+		<td width="100">欣龙无纺</td>
+		<td width="100">000956</td>
+		<td width="100">中原油气</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000957</td>
+		<td width="100">中通客车</td>
+		<td width="100">000958</td>
+		<td width="100">东方热电</td>
+	</tr>
+	<tr>
+		<td width="100">000958</td>
+		<td width="100">东方热电</td>
+		<td width="100">000959</td>
+		<td width="100">首钢股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000960</td>
+		<td width="100">锡业股份</td>
+		<td width="100">000961</td>
+		<td width="100">大连金牛</td>
+	</tr>
+	<tr>
+		<td width="100">000961</td>
+		<td width="100">大连金牛</td>
+		<td width="100">000962</td>
+		<td width="100">东方钽业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000963</td>
+		<td width="100">华东医药</td>
+		<td width="100">000965</td>
+		<td width="100">天水股份</td>
+	</tr>
+	<tr>
+		<td width="100">000965</td>
+		<td width="100">天水股份</td>
+		<td width="100">000966</td>
+		<td width="100">长源电力</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000967</td>
+		<td width="100">上风高科</td>
+		<td width="100">000968</td>
+		<td width="100">神州股份</td>
+	</tr>
+	<tr>
+		<td width="100">000968</td>
+		<td width="100">神州股份</td>
+		<td width="100">000969</td>
+		<td width="100">安泰科技</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000970</td>
+		<td width="100">中科三环</td>
+		<td width="100">000971</td>
+		<td width="100">湖北迈亚</td>
+	</tr>
+	<tr>
+		<td width="100">000971</td>
+		<td width="100">湖北迈亚</td>
+		<td width="100">000972</td>
+		<td width="100">新中基</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000973</td>
+		<td width="100">佛塑股份</td>
+		<td width="100">000975</td>
+		<td width="100">科学城</td>
+	</tr>
+	<tr>
+		<td width="100">000975</td>
+		<td width="100">科学城</td>
+		<td width="100">000976</td>
+		<td width="100">春晖股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000977</td>
+		<td width="100">浪潮信息</td>
+		<td width="100">000978</td>
+		<td width="100">桂林旅游</td>
+	</tr>
+	<tr>
+		<td width="100">000978</td>
+		<td width="100">桂林旅游</td>
+		<td width="100">000979</td>
+		<td width="100">科苑集团</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000980</td>
+		<td width="100">ST金马</td>
+		<td width="100">000981</td>
+		<td width="100">兰光科技</td>
+	</tr>
+	<tr>
+		<td width="100">000981</td>
+		<td width="100">兰光科技</td>
+		<td width="100">000982</td>
+		<td width="100">圣 雪 绒</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000983</td>
+		<td width="100">西山煤电</td>
+		<td width="100">000985</td>
+		<td width="100">大庆华科</td>
+	</tr>
+	<tr>
+		<td width="100">000985</td>
+		<td width="100">大庆华科</td>
+		<td width="100">000987</td>
+		<td width="100">广州友谊</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000988</td>
+		<td width="100">华工科技</td>
+		<td width="100">000989</td>
+		<td width="100">九芝堂</td>
+	</tr>
+	<tr>
+		<td width="100">000989</td>
+		<td width="100">九芝堂</td>
+		<td width="100">000990</td>
+		<td width="100">诚志股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000991</td>
+		<td width="100">通海高科</td>
+		<td width="100">000993</td>
+		<td width="100">闽东电力</td>
+	</tr>
+	<tr>
+		<td width="100">000993</td>
+		<td width="100">闽东电力</td>
+		<td width="100">000995</td>
+		<td width="100">皇台酒业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000996</td>
+		<td width="100">捷利股份</td>
+		<td width="100">000997</td>
+		<td width="100">新大陆</td>
+	</tr>
+	<tr>
+		<td width="100">000997</td>
+		<td width="100">新大陆</td>
+		<td width="100">000998</td>
+		<td width="100">隆平高科</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">000999</td>
+		<td width="100">三九医药</td>
+		<td width="100">001696</td>
+		<td width="100">ST宗动</td>
+	</tr>
+	<tr>
+		<td width="100">001696</td>
+		<td width="100">ST宗动</td>
+		<td width="100">001896</td>
+		<td width="100">豫能控股</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">009703</td>
+		<td width="100">97国债(3)</td>
+		<td width="100">009704</td>
+		<td width="100">97国债(4)</td>
+	</tr>
+	<tr>
+		<td width="100">009704</td>
+		<td width="100">97国债(4)</td>
+		<td width="100">009905</td>
+		<td width="100">99国债(5)</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">009908</td>
+		<td width="100">99国债(8)</td>
+		<td width="100">010004</td>
+		<td width="100">20国债(4)</td>
+	</tr>
+	<tr>
+		<td width="100">010004</td>
+		<td width="100">20国债(4)</td>
+		<td width="100">010010</td>
+		<td width="100">20国债(10)</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">010103</td>
+		<td width="100">21国债(3)</td>
+		<td width="100">010107</td>
+		<td width="100">21国债(7)</td>
+	</tr>
+	<tr>
+		<td width="100">010107</td>
+		<td width="100">21国债(7)</td>
+		<td width="100">010110</td>
+		<td width="100">21国债(10)</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">010112</td>
+		<td width="100">21国债(12)</td>
+		<td width="100">010115</td>
+		<td width="100">21国债(15)</td>
+	</tr>
+	<tr>
+		<td width="100">010115</td>
+		<td width="100">21国债(15)</td>
+		<td width="100">010203</td>
+		<td width="100">02国债(3)</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">010210</td>
+		<td width="100">02国债(10)</td>
+		<td width="100">010213</td>
+		<td width="100">02国债(13)</td>
+	</tr>
+	<tr>
+		<td width="100">010213</td>
+		<td width="100">02国债(13)</td>
+		<td width="100">010214</td>
+		<td width="100">02国债(14)</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">010215</td>
+		<td width="100">02国债(15)</td>
+		<td width="100">010301</td>
+		<td width="100">03国债(1)</td>
+	</tr>
+	<tr>
+		<td width="100">010301</td>
+		<td width="100">03国债(1)</td>
+		<td width="100">010303</td>
+		<td width="100">03国债(3)</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">010307</td>
+		<td width="100">03国债(7)</td>
+		<td width="100">010796</td>
+		<td width="100">96国债(7)</td>
+	</tr>
+	<tr>
+		<td width="100">010796</td>
+		<td width="100">96国债(7)</td>
+		<td width="100">100001</td>
+		<td width="100">南化转债</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">100009</td>
+		<td width="100">机场转债</td>
+		<td width="100">100016</td>
+		<td width="100">民生转债</td>
+	</tr>
+	<tr>
+		<td width="100">100016</td>
+		<td width="100">民生转债</td>
+		<td width="100">100087</td>
+		<td width="100">水运转债</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">100115</td>
+		<td width="100">国债0115</td>
+		<td width="100">100117</td>
+		<td width="100">西钢转债</td>
+	</tr>
+	<tr>
+		<td width="100">100117</td>
+		<td width="100">西钢转债</td>
+		<td width="100">100177</td>
+		<td width="100">雅戈转债</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">100203</td>
+		<td width="100">国债0203</td>
+		<td width="100">100210</td>
+		<td width="100">国债0210</td>
+	</tr>
+	<tr>
+		<td width="100">100210</td>
+		<td width="100">国债0210</td>
+		<td width="100">100213</td>
+		<td width="100">国债0213</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">100214</td>
+		<td width="100">国债0214</td>
+		<td width="100">100215</td>
+		<td width="100">国债0215</td>
+	</tr>
+	<tr>
+		<td width="100">100215</td>
+		<td width="100">国债0215</td>
+		<td width="100">100220</td>
+		<td width="100">阳光转债</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">100236</td>
+		<td width="100">桂冠转债</td>
+		<td width="100">100301</td>
+		<td width="100">国债0301</td>
+	</tr>
+	<tr>
+		<td width="100">100301</td>
+		<td width="100">国债0301</td>
+		<td width="100">100303</td>
+		<td width="100">国债0303</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">100307</td>
+		<td width="100">国债0307</td>
+		<td width="100">100567</td>
+		<td width="100">山鹰转债</td>
+	</tr>
+	<tr>
+		<td width="100">100567</td>
+		<td width="100">山鹰转债</td>
+		<td width="100">100726</td>
+		<td width="100">龙电转债</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">100795</td>
+		<td width="100">国电转债</td>
+		<td width="100">101903</td>
+		<td width="100">国债903</td>
+	</tr>
+	<tr>
+		<td width="100">101903</td>
+		<td width="100">国债903</td>
+		<td width="100">101904</td>
+		<td width="100">国债904</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">101905</td>
+		<td width="100">国债905</td>
+		<td width="100">101912</td>
+		<td width="100">国债912</td>
+	</tr>
+	<tr>
+		<td width="100">101912</td>
+		<td width="100">国债912</td>
+		<td width="100">101917</td>
+		<td width="100">国债917</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">101918</td>
+		<td width="100">国债918</td>
+		<td width="100">101966</td>
+		<td width="100">国债966</td>
+	</tr>
+	<tr>
+		<td width="100">101966</td>
+		<td width="100">国债966</td>
+		<td width="100">101968</td>
+		<td width="100">国债968</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">101973</td>
+		<td width="100">国债973</td>
+		<td width="100">101995</td>
+		<td width="100">国债995</td>
+	</tr>
+	<tr>
+		<td width="100">101995</td>
+		<td width="100">国债995</td>
+		<td width="100">101998</td>
+		<td width="100">国债998</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">111011</td>
+		<td width="100">中铁963</td>
+		<td width="100">111012</td>
+		<td width="100">中铁965</td>
+	</tr>
+	<tr>
+		<td width="100">111012</td>
+		<td width="100">中铁965</td>
+		<td width="100">111013</td>
+		<td width="100">中信983</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">111015</td>
+		<td width="100">01三峡10</td>
+		<td width="100">111016</td>
+		<td width="100">01广核债</td>
+	</tr>
+	<tr>
+		<td width="100">111016</td>
+		<td width="100">01广核债</td>
+		<td width="100">111017</td>
+		<td width="100">02电网3</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">111018</td>
+		<td width="100">02电网15</td>
+		<td width="100">111019</td>
+		<td width="100">02广核债</td>
+	</tr>
+	<tr>
+		<td width="100">111019</td>
+		<td width="100">02广核债</td>
+		<td width="100">120001</td>
+		<td width="100">99宝钢债</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">120101</td>
+		<td width="100">01中移动</td>
+		<td width="100">120102</td>
+		<td width="100">01三峡债</td>
+	</tr>
+	<tr>
+		<td width="100">120102</td>
+		<td width="100">01三峡债</td>
+		<td width="100">120201</td>
+		<td width="100">02三峡债</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">120202</td>
+		<td width="100">02中移(5)</td>
+		<td width="100">120203</td>
+		<td width="100">02中移(15)</td>
+	</tr>
+	<tr>
+		<td width="100">120203</td>
+		<td width="100">02中移(15)</td>
+		<td width="100">120204</td>
+		<td width="100">02苏交通</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">120205</td>
+		<td width="100">02渝城投</td>
+		<td width="100">120288</td>
+		<td width="100">02金茂债</td>
+	</tr>
+	<tr>
+		<td width="100">120288</td>
+		<td width="100">02金茂债</td>
+		<td width="100">125002</td>
+		<td width="100">万科转债</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">125301</td>
+		<td width="100">丝绸转债</td>
+		<td width="100">125302</td>
+		<td width="100">茂炼转债</td>
+	</tr>
+	<tr>
+		<td width="100">125302</td>
+		<td width="100">茂炼转债</td>
+		<td width="100">125629</td>
+		<td width="100">钢钒转债</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">125630</td>
+		<td width="100">铜都转债</td>
+		<td width="100">125729</td>
+		<td width="100">燕京转债</td>
+	</tr>
+	<tr>
+		<td width="100">125729</td>
+		<td width="100">燕京转债</td>
+		<td width="100">125898</td>
+		<td width="100">鞍钢转债</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">125930</td>
+		<td width="100">丰原转债</td>
+		<td width="100">125936</td>
+		<td width="100">华西转债</td>
+	</tr>
+	<tr>
+		<td width="100">125936</td>
+		<td width="100">华西转债</td>
+		<td width="100">126301</td>
+		<td width="100">丝绸转2</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">129601</td>
+		<td width="100">95吉化债</td>
+		<td width="100">129701</td>
+		<td width="100">96三峡债</td>
+	</tr>
+	<tr>
+		<td width="100">129701</td>
+		<td width="100">96三峡债</td>
+		<td width="100">129702</td>
+		<td width="100">96吉化债</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">129703</td>
+		<td width="100">96梅山债</td>
+		<td width="100">129801</td>
+		<td width="100">97国电债</td>
+	</tr>
+	<tr>
+		<td width="100">129801</td>
+		<td width="100">97国电债</td>
+		<td width="100">129802</td>
+		<td width="100">97中铁3</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">129803</td>
+		<td width="100">97中铁5</td>
+		<td width="100">129804</td>
+		<td width="100">98三峡３</td>
+	</tr>
+	<tr>
+		<td width="100">129804</td>
+		<td width="100">98三峡３</td>
+		<td width="100">129805</td>
+		<td width="100">98三峡８</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">129806</td>
+		<td width="100">98中铁(1)</td>
+		<td width="100">129901</td>
+		<td width="100">98中铁(2)</td>
+	</tr>
+	<tr>
+		<td width="100">129901</td>
+		<td width="100">98中铁(2)</td>
+		<td width="100">129902</td>
+		<td width="100">98中铁(3)</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">129903</td>
+		<td width="100">99三峡债</td>
+		<td width="100">129904</td>
+		<td width="100">98中信(7)</td>
+	</tr>
+	<tr>
+		<td width="100">129904</td>
+		<td width="100">98中信(7)</td>
+		<td width="100">129905</td>
+		<td width="100">98石油债</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">131800</td>
+		<td width="100">R-003</td>
+		<td width="100">131801</td>
+		<td width="100">R-007</td>
+	</tr>
+	<tr>
+		<td width="100">131801</td>
+		<td width="100">R-007</td>
+		<td width="100">131802</td>
+		<td width="100">R-014</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">131803</td>
+		<td width="100">R-028</td>
+		<td width="100">131804</td>
+		<td width="100">R-063</td>
+	</tr>
+	<tr>
+		<td width="100">131804</td>
+		<td width="100">R-063</td>
+		<td width="100">131805</td>
+		<td width="100">R-091</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">131806</td>
+		<td width="100">R-182</td>
+		<td width="100">131807</td>
+		<td width="100">R-273</td>
+	</tr>
+	<tr>
+		<td width="100">131807</td>
+		<td width="100">R-273</td>
+		<td width="100">131809</td>
+		<td width="100">R-004</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">131810</td>
+		<td width="100">R-001</td>
+		<td width="100">131811</td>
+		<td width="100">R-002</td>
+	</tr>
+	<tr>
+		<td width="100">131811</td>
+		<td width="100">R-002</td>
+		<td width="100">131900</td>
+		<td width="100">RC-003</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">131901</td>
+		<td width="100">RC-007</td>
+		<td width="100">131910</td>
+		<td width="100">RC-001</td>
+	</tr>
+	<tr>
+		<td width="100">131910</td>
+		<td width="100">RC-001</td>
+		<td width="100">131911</td>
+		<td width="100">RC-002</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">184001</td>
+		<td width="100">南山基金</td>
+		<td width="100">184002</td>
+		<td width="100">天骥基金</td>
+	</tr>
+	<tr>
+		<td width="100">184002</td>
+		<td width="100">天骥基金</td>
+		<td width="100">184003</td>
+		<td width="100">蓝天基金</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">184005</td>
+		<td width="100">半岛基金</td>
+		<td width="100">184006</td>
+		<td width="100">君安受益</td>
+	</tr>
+	<tr>
+		<td width="100">184006</td>
+		<td width="100">君安受益</td>
+		<td width="100">184501</td>
+		<td width="100">广发基金</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">184502</td>
+		<td width="100">南方基金</td>
+		<td width="100">184503</td>
+		<td width="100">广证基金</td>
+	</tr>
+	<tr>
+		<td width="100">184503</td>
+		<td width="100">广证基金</td>
+		<td width="100">184505</td>
+		<td width="100">华信基金</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">184506</td>
+		<td width="100">富岛基金</td>
+		<td width="100">184509</td>
+		<td width="100">广证受益</td>
+	</tr>
+	<tr>
+		<td width="100">184509</td>
+		<td width="100">广证受益</td>
+		<td width="100">184510</td>
+		<td width="100">海南银通</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">184688</td>
+		<td width="100">基金开元</td>
+		<td width="100">184689</td>
+		<td width="100">基金普惠</td>
+	</tr>
+	<tr>
+		<td width="100">184689</td>
+		<td width="100">基金普惠</td>
+		<td width="100">184690</td>
+		<td width="100">基金同益</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">184691</td>
+		<td width="100">基金景宏</td>
+		<td width="100">184692</td>
+		<td width="100">基金裕隆</td>
+	</tr>
+	<tr>
+		<td width="100">184692</td>
+		<td width="100">基金裕隆</td>
+		<td width="100">184693</td>
+		<td width="100">基金普丰</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">184695</td>
+		<td width="100">基金景博</td>
+		<td width="100">184696</td>
+		<td width="100">基金裕华</td>
+	</tr>
+	<tr>
+		<td width="100">184696</td>
+		<td width="100">基金裕华</td>
+		<td width="100">184698</td>
+		<td width="100">基金天元</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">184699</td>
+		<td width="100">基金同盛</td>
+		<td width="100">184700</td>
+		<td width="100">基金鸿飞</td>
+	</tr>
+	<tr>
+		<td width="100">184700</td>
+		<td width="100">基金鸿飞</td>
+		<td width="100">184701</td>
+		<td width="100">基金景福</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">184702</td>
+		<td width="100">基金同智</td>
+		<td width="100">184703</td>
+		<td width="100">基金金盛</td>
+	</tr>
+	<tr>
+		<td width="100">184703</td>
+		<td width="100">基金金盛</td>
+		<td width="100">184705</td>
+		<td width="100">基金裕泽</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">184706</td>
+		<td width="100">基金天华</td>
+		<td width="100">184708</td>
+		<td width="100">基金兴科</td>
+	</tr>
+	<tr>
+		<td width="100">184708</td>
+		<td width="100">基金兴科</td>
+		<td width="100">184709</td>
+		<td width="100">基金安久</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">184710</td>
+		<td width="100">基金隆元</td>
+		<td width="100">184711</td>
+		<td width="100">基金普华</td>
+	</tr>
+	<tr>
+		<td width="100">184711</td>
+		<td width="100">基金普华</td>
+		<td width="100">184712</td>
+		<td width="100">基金科汇</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">184713</td>
+		<td width="100">基金科翔</td>
+		<td width="100">184718</td>
+		<td width="100">基金兴安</td>
+	</tr>
+	<tr>
+		<td width="100">184718</td>
+		<td width="100">基金兴安</td>
+		<td width="100">184719</td>
+		<td width="100">基金融鑫</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">184720</td>
+		<td width="100">基金久富</td>
+		<td width="100">184721</td>
+		<td width="100">基金丰和</td>
+	</tr>
+	<tr>
+		<td width="100">184721</td>
+		<td width="100">基金丰和</td>
+		<td width="100">184722</td>
+		<td width="100">基金久嘉</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">184728</td>
+		<td width="100">基金鸿阳</td>
+		<td width="100">184738</td>
+		<td width="100">基金通宝</td>
+	</tr>
+	<tr>
+		<td width="100">184738</td>
+		<td width="100">基金通宝</td>
+		<td width="100">200002</td>
+		<td width="100">深万科B</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">200003</td>
+		<td width="100">PT金田B</td>
+		<td width="100">200011</td>
+		<td width="100">ST物业B</td>
+	</tr>
+	<tr>
+		<td width="100">200011</td>
+		<td width="100">ST物业B</td>
+		<td width="100">200012</td>
+		<td width="100">深南玻B</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">200013</td>
+		<td width="100">ST石化B</td>
+		<td width="100">200015</td>
+		<td width="100">PT中浩B</td>
+	</tr>
+	<tr>
+		<td width="100">200015</td>
+		<td width="100">PT中浩B</td>
+		<td width="100">200016</td>
+		<td width="100">深康佳B</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">200017</td>
+		<td width="100">ST中华B</td>
+		<td width="100">200018</td>
+		<td width="100">深中冠B</td>
+	</tr>
+	<tr>
+		<td width="100">200018</td>
+		<td width="100">深中冠B</td>
+		<td width="100">200019</td>
+		<td width="100">深深宝B</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">200020</td>
+		<td width="100">深华发B</td>
+		<td width="100">200022</td>
+		<td width="100">深赤湾B</td>
+	</tr>
+	<tr>
+		<td width="100">200022</td>
+		<td width="100">深赤湾B</td>
+		<td width="100">200024</td>
+		<td width="100">招商局B</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">200025</td>
+		<td width="100">ST特力B</td>
+		<td width="100">200026</td>
+		<td width="100">飞亚达B</td>
+	</tr>
+	<tr>
+		<td width="100">200026</td>
+		<td width="100">飞亚达B</td>
+		<td width="100">200028</td>
+		<td width="100">一致Ｂ</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">200029</td>
+		<td width="100">深深房B</td>
+		<td width="100">200030</td>
+		<td width="100">ST盛润B</td>
+	</tr>
+	<tr>
+		<td width="100">200030</td>
+		<td width="100">ST盛润B</td>
+		<td width="100">200037</td>
+		<td width="100">深南电B</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">200039</td>
+		<td width="100">中集B</td>
+		<td width="100">200041</td>
+		<td width="100">深本实B</td>
+	</tr>
+	<tr>
+		<td width="100">200041</td>
+		<td width="100">深本实B</td>
+		<td width="100">200045</td>
+		<td width="100">深纺织B</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">200053</td>
+		<td width="100">深基地B</td>
+		<td width="100">200054</td>
+		<td width="100">ST建摩B</td>
+	</tr>
+	<tr>
+		<td width="100">200054</td>
+		<td width="100">ST建摩B</td>
+		<td width="100">200055</td>
+		<td width="100">方大B</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">200056</td>
+		<td width="100">深国商B</td>
+		<td width="100">200057</td>
+		<td width="100">ST大洋B</td>
+	</tr>
+	<tr>
+		<td width="100">200057</td>
+		<td width="100">ST大洋B</td>
+		<td width="100">200058</td>
+		<td width="100">深赛格B</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">200152</td>
+		<td width="100">山航B</td>
+		<td width="100">200160</td>
+		<td width="100">帝贤B</td>
+	</tr>
+	<tr>
+		<td width="100">200160</td>
+		<td width="100">帝贤B</td>
+		<td width="100">200168</td>
+		<td width="100">雷伊B</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">200413</td>
+		<td width="100">宝石B</td>
+		<td width="100">200418</td>
+		<td width="100">ST天鹅B</td>
+	</tr>
+	<tr>
+		<td width="100">200418</td>
+		<td width="100">ST天鹅B</td>
+		<td width="100">200429</td>
+		<td width="100">粤高速B</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">200468</td>
+		<td width="100">宁通信B</td>
+		<td width="100">200488</td>
+		<td width="100">晨鸣B</td>
+	</tr>
+	<tr>
+		<td width="100">200488</td>
+		<td width="100">晨鸣B</td>
+		<td width="100">200505</td>
+		<td width="100">ST珠江B</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">200512</td>
+		<td width="100">闽灿坤B</td>
+		<td width="100">200513</td>
+		<td width="100">丽珠B</td>
+	</tr>
+	<tr>
+		<td width="100">200513</td>
+		<td width="100">丽珠B</td>
+		<td width="100">200521</td>
+		<td width="100">皖美菱Ｂ</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">200530</td>
+		<td width="100">大冷B</td>
+		<td width="100">200539</td>
+		<td width="100">粤电力B</td>
+	</tr>
+	<tr>
+		<td width="100">200539</td>
+		<td width="100">粤电力B</td>
+		<td width="100">200541</td>
+		<td width="100">粤照明B</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">200550</td>
+		<td width="100">江铃B</td>
+		<td width="100">200553</td>
+		<td width="100">沙隆达B</td>
+	</tr>
+	<tr>
+		<td width="100">200553</td>
+		<td width="100">沙隆达B</td>
+		<td width="100">200570</td>
+		<td width="100">ST常柴B</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">200581</td>
+		<td width="100">苏威孚B</td>
+		<td width="100">200596</td>
+		<td width="100">古井贡B</td>
+	</tr>
+	<tr>
+		<td width="100">200596</td>
+		<td width="100">古井贡B</td>
+		<td width="100">200613</td>
+		<td width="100">ST东海Ｂ</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">200625</td>
+		<td width="100">长安B</td>
+		<td width="100">200706</td>
+		<td width="100">瓦轴B</td>
+	</tr>
+	<tr>
+		<td width="100">200706</td>
+		<td width="100">瓦轴B</td>
+		<td width="100">200725</td>
+		<td width="100">京东方B</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">200726</td>
+		<td width="100">鲁泰B</td>
+		<td width="100">200761</td>
+		<td width="100">ST板材B</td>
+	</tr>
+	<tr>
+		<td width="100">200761</td>
+		<td width="100">ST板材B</td>
+		<td width="100">200770</td>
+		<td width="100">武锅B</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">200771</td>
+		<td width="100">杭汽轮B</td>
+		<td width="100">200869</td>
+		<td width="100">张裕B</td>
+	</tr>
+	<tr>
+		<td width="100">200869</td>
+		<td width="100">张裕B</td>
+		<td width="100">200986</td>
+		<td width="100">粤华包B</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">200992</td>
+		<td width="100">ST中鲁B</td>
+		<td width="100">201000</td>
+		<td width="100">R003</td>
+	</tr>
+	<tr>
+		<td width="100">201000</td>
+		<td width="100">R003</td>
+		<td width="100">201001</td>
+		<td width="100">R007</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">201002</td>
+		<td width="100">R014</td>
+		<td width="100">201003</td>
+		<td width="100">R028</td>
+	</tr>
+	<tr>
+		<td width="100">201003</td>
+		<td width="100">R028</td>
+		<td width="100">201004</td>
+		<td width="100">R091</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">201005</td>
+		<td width="100">R182</td>
+		<td width="100">201006</td>
+		<td width="100">R273</td>
+	</tr>
+	<tr>
+		<td width="100">201006</td>
+		<td width="100">R273</td>
+		<td width="100">201007</td>
+		<td width="100">R004</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">201008</td>
+		<td width="100">R001</td>
+		<td width="100">201009</td>
+		<td width="100">R002</td>
+	</tr>
+	<tr>
+		<td width="100">201009</td>
+		<td width="100">R002</td>
+		<td width="100">201010</td>
+		<td width="100">R004</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">202001</td>
+		<td width="100">RC001</td>
+		<td width="100">202003</td>
+		<td width="100">RC003</td>
+	</tr>
+	<tr>
+		<td width="100">202003</td>
+		<td width="100">RC003</td>
+		<td width="100">202007</td>
+		<td width="100">RC007</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">500001</td>
+		<td width="100">基金金泰</td>
+		<td width="100">500002</td>
+		<td width="100">基金泰和</td>
+	</tr>
+	<tr>
+		<td width="100">500002</td>
+		<td width="100">基金泰和</td>
+		<td width="100">500003</td>
+		<td width="100">基金安信</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">500005</td>
+		<td width="100">基金汉盛</td>
+		<td width="100">500006</td>
+		<td width="100">基金裕阳</td>
+	</tr>
+	<tr>
+		<td width="100">500006</td>
+		<td width="100">基金裕阳</td>
+		<td width="100">500007</td>
+		<td width="100">基金景阳</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">500008</td>
+		<td width="100">基金兴华</td>
+		<td width="100">500009</td>
+		<td width="100">基金安顺</td>
+	</tr>
+	<tr>
+		<td width="100">500009</td>
+		<td width="100">基金安顺</td>
+		<td width="100">500010</td>
+		<td width="100">基金金元</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">500011</td>
+		<td width="100">基金金鑫</td>
+		<td width="100">500013</td>
+		<td width="100">基金安瑞</td>
+	</tr>
+	<tr>
+		<td width="100">500013</td>
+		<td width="100">基金安瑞</td>
+		<td width="100">500015</td>
+		<td width="100">基金汉兴</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">500016</td>
+		<td width="100">基金裕元</td>
+		<td width="100">500017</td>
+		<td width="100">基金景业</td>
+	</tr>
+	<tr>
+		<td width="100">500017</td>
+		<td width="100">基金景业</td>
+		<td width="100">500018</td>
+		<td width="100">基金兴和</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">500019</td>
+		<td width="100">基金普润</td>
+		<td width="100">500021</td>
+		<td width="100">基金金鼎</td>
+	</tr>
+	<tr>
+		<td width="100">500021</td>
+		<td width="100">基金金鼎</td>
+		<td width="100">500025</td>
+		<td width="100">基金汉鼎</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">500028</td>
+		<td width="100">基金兴业</td>
+		<td width="100">500029</td>
+		<td width="100">基金科讯</td>
+	</tr>
+	<tr>
+		<td width="100">500029</td>
+		<td width="100">基金科讯</td>
+		<td width="100">500035</td>
+		<td width="100">基金汉博</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">500038</td>
+		<td width="100">基金通乾</td>
+		<td width="100">500039</td>
+		<td width="100">基金同德</td>
+	</tr>
+	<tr>
+		<td width="100">500039</td>
+		<td width="100">基金同德</td>
+		<td width="100">500056</td>
+		<td width="100">基金科瑞</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">500058</td>
+		<td width="100">基金银丰</td>
+		<td width="100">500500</td>
+		<td width="100">淄博基金</td>
+	</tr>
+	<tr>
+		<td width="100">500500</td>
+		<td width="100">淄博基金</td>
+		<td width="100">500501</td>
+		<td width="100">金龙基金</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">500502</td>
+		<td width="100">宝鼎基金</td>
+		<td width="100">500503</td>
+		<td width="100">建业基金</td>
+	</tr>
+	<tr>
+		<td width="100">500503</td>
+		<td width="100">建业基金</td>
+		<td width="100">500513</td>
+		<td width="100">通发基金</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">550511</td>
+		<td width="100">沈阳农信</td>
+		<td width="100">550512</td>
+		<td width="100">沈阳富民</td>
+	</tr>
+	<tr>
+		<td width="100">550512</td>
+		<td width="100">沈阳富民</td>
+		<td width="100">550513</td>
+		<td width="100">沈阳通发</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">550514</td>
+		<td width="100">沈阳公众</td>
+		<td width="100">550515</td>
+		<td width="100">沈阳兴沈</td>
+	</tr>
+	<tr>
+		<td width="100">550515</td>
+		<td width="100">沈阳兴沈</td>
+		<td width="100">550516</td>
+		<td width="100">沈阳万利</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">550517</td>
+		<td width="100">沈阳银海</td>
+		<td width="100">550518</td>
+		<td width="100">沈阳久盛</td>
+	</tr>
+	<tr>
+		<td width="100">550518</td>
+		<td width="100">沈阳久盛</td>
+		<td width="100">550551</td>
+		<td width="100">广东广发</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">550552</td>
+		<td width="100">广东海鸥</td>
+		<td width="100">550553</td>
+		<td width="100">广东广信</td>
+	</tr>
+	<tr>
+		<td width="100">550553</td>
+		<td width="100">广东广信</td>
+		<td width="100">600000</td>
+		<td width="100">浦发银行</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600001</td>
+		<td width="100">邯郸钢铁</td>
+		<td width="100">600002</td>
+		<td width="100">齐鲁石化</td>
+	</tr>
+	<tr>
+		<td width="100">600002</td>
+		<td width="100">齐鲁石化</td>
+		<td width="100">600003</td>
+		<td width="100">东北高速</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600004</td>
+		<td width="100">白云机场</td>
+		<td width="100">600005</td>
+		<td width="100">武钢股份</td>
+	</tr>
+	<tr>
+		<td width="100">600005</td>
+		<td width="100">武钢股份</td>
+		<td width="100">600006</td>
+		<td width="100">东风汽车</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600007</td>
+		<td width="100">中国国贸</td>
+		<td width="100">600008</td>
+		<td width="100">首创股份</td>
+	</tr>
+	<tr>
+		<td width="100">600008</td>
+		<td width="100">首创股份</td>
+		<td width="100">600009</td>
+		<td width="100">上海机场</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600010</td>
+		<td width="100">钢联股份</td>
+		<td width="100">600011</td>
+		<td width="100">华能国际</td>
+	</tr>
+	<tr>
+		<td width="100">600011</td>
+		<td width="100">华能国际</td>
+		<td width="100">600012</td>
+		<td width="100">皖通高速</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600015</td>
+		<td width="100">华夏银行</td>
+		<td width="100">600016</td>
+		<td width="100">民生银行</td>
+	</tr>
+	<tr>
+		<td width="100">600016</td>
+		<td width="100">民生银行</td>
+		<td width="100">600018</td>
+		<td width="100">上港集箱</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600019</td>
+		<td width="100">宝钢股份</td>
+		<td width="100">600020</td>
+		<td width="100">中原高速</td>
+	</tr>
+	<tr>
+		<td width="100">600020</td>
+		<td width="100">中原高速</td>
+		<td width="100">600026</td>
+		<td width="100">中海发展</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600028</td>
+		<td width="100">中国石化</td>
+		<td width="100">600029</td>
+		<td width="100">南方航空</td>
+	</tr>
+	<tr>
+		<td width="100">600029</td>
+		<td width="100">南方航空</td>
+		<td width="100">600030</td>
+		<td width="100">中信证券</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600031</td>
+		<td width="100">三一重工</td>
+		<td width="100">600033</td>
+		<td width="100">福建高速</td>
+	</tr>
+	<tr>
+		<td width="100">600033</td>
+		<td width="100">福建高速</td>
+		<td width="100">600036</td>
+		<td width="100">招商银行</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600037</td>
+		<td width="100">歌华有线</td>
+		<td width="100">600038</td>
+		<td width="100">哈飞股份</td>
+	</tr>
+	<tr>
+		<td width="100">600038</td>
+		<td width="100">哈飞股份</td>
+		<td width="100">600039</td>
+		<td width="100">四川路桥</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600050</td>
+		<td width="100">中国联通</td>
+		<td width="100">600051</td>
+		<td width="100">宁波联合</td>
+	</tr>
+	<tr>
+		<td width="100">600051</td>
+		<td width="100">宁波联合</td>
+		<td width="100">600052</td>
+		<td width="100">浙江广厦</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600053</td>
+		<td width="100">ST江纸</td>
+		<td width="100">600054</td>
+		<td width="100">黄山旅游</td>
+	</tr>
+	<tr>
+		<td width="100">600054</td>
+		<td width="100">黄山旅游</td>
+		<td width="100">600055</td>
+		<td width="100">万东医疗</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600056</td>
+		<td width="100">中技贸易</td>
+		<td width="100">600057</td>
+		<td width="100">厦新电子</td>
+	</tr>
+	<tr>
+		<td width="100">600057</td>
+		<td width="100">厦新电子</td>
+		<td width="100">600058</td>
+		<td width="100">龙腾科技</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600059</td>
+		<td width="100">古越龙山</td>
+		<td width="100">600060</td>
+		<td width="100">海信电器</td>
+	</tr>
+	<tr>
+		<td width="100">600060</td>
+		<td width="100">海信电器</td>
+		<td width="100">600061</td>
+		<td width="100">中纺投资</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600062</td>
+		<td width="100">双鹤药业</td>
+		<td width="100">600063</td>
+		<td width="100">皖维高新</td>
+	</tr>
+	<tr>
+		<td width="100">600063</td>
+		<td width="100">皖维高新</td>
+		<td width="100">600064</td>
+		<td width="100">南京高科</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600065</td>
+		<td width="100">大庆联谊</td>
+		<td width="100">600066</td>
+		<td width="100">宇通客车</td>
+	</tr>
+	<tr>
+		<td width="100">600066</td>
+		<td width="100">宇通客车</td>
+		<td width="100">600067</td>
+		<td width="100">福州大通</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600068</td>
+		<td width="100">葛洲坝</td>
+		<td width="100">600069</td>
+		<td width="100">银鸽投资</td>
+	</tr>
+	<tr>
+		<td width="100">600069</td>
+		<td width="100">银鸽投资</td>
+		<td width="100">600070</td>
+		<td width="100">浙江富润</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600071</td>
+		<td width="100">凤凰光学</td>
+		<td width="100">600072</td>
+		<td width="100">江南重工</td>
+	</tr>
+	<tr>
+		<td width="100">600072</td>
+		<td width="100">江南重工</td>
+		<td width="100">600073</td>
+		<td width="100">上海梅林</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600074</td>
+		<td width="100">南京中达</td>
+		<td width="100">600075</td>
+		<td width="100">新疆天业</td>
+	</tr>
+	<tr>
+		<td width="100">600075</td>
+		<td width="100">新疆天业</td>
+		<td width="100">600076</td>
+		<td width="100">青鸟华光</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600077</td>
+		<td width="100">国能集团</td>
+		<td width="100">600078</td>
+		<td width="100">澄星股份</td>
+	</tr>
+	<tr>
+		<td width="100">600078</td>
+		<td width="100">澄星股份</td>
+		<td width="100">600079</td>
+		<td width="100">人福科技</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600080</td>
+		<td width="100">金花股份</td>
+		<td width="100">600081</td>
+		<td width="100">东风科技</td>
+	</tr>
+	<tr>
+		<td width="100">600081</td>
+		<td width="100">东风科技</td>
+		<td width="100">600082</td>
+		<td width="100">ST海泰</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600083</td>
+		<td width="100">ST博讯</td>
+		<td width="100">600084</td>
+		<td width="100">新天国际</td>
+	</tr>
+	<tr>
+		<td width="100">600084</td>
+		<td width="100">新天国际</td>
+		<td width="100">600085</td>
+		<td width="100">同仁堂</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600086</td>
+		<td width="100">多佳股份</td>
+		<td width="100">600087</td>
+		<td width="100">南京水运</td>
+	</tr>
+	<tr>
+		<td width="100">600087</td>
+		<td width="100">南京水运</td>
+		<td width="100">600088</td>
+		<td width="100">中视传媒</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600089</td>
+		<td width="100">特变电工</td>
+		<td width="100">600090</td>
+		<td width="100">啤酒花</td>
+	</tr>
+	<tr>
+		<td width="100">600090</td>
+		<td width="100">啤酒花</td>
+		<td width="100">600091</td>
+		<td width="100">明天科技</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600092</td>
+		<td width="100">精密股份</td>
+		<td width="100">600093</td>
+		<td width="100">禾嘉股份</td>
+	</tr>
+	<tr>
+		<td width="100">600093</td>
+		<td width="100">禾嘉股份</td>
+		<td width="100">600094</td>
+		<td width="100">华源股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600095</td>
+		<td width="100">哈高科</td>
+		<td width="100">600096</td>
+		<td width="100">云天化</td>
+	</tr>
+	<tr>
+		<td width="100">600096</td>
+		<td width="100">云天化</td>
+		<td width="100">600097</td>
+		<td width="100">华立科技</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600098</td>
+		<td width="100">广州控股</td>
+		<td width="100">600099</td>
+		<td width="100">林海股份</td>
+	</tr>
+	<tr>
+		<td width="100">600099</td>
+		<td width="100">林海股份</td>
+		<td width="100">600100</td>
+		<td width="100">清华同方</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600101</td>
+		<td width="100">明星电力</td>
+		<td width="100">600102</td>
+		<td width="100">莱钢股份</td>
+	</tr>
+	<tr>
+		<td width="100">600102</td>
+		<td width="100">莱钢股份</td>
+		<td width="100">600103</td>
+		<td width="100">青山纸业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600104</td>
+		<td width="100">上海汽车</td>
+		<td width="100">600105</td>
+		<td width="100">永鼎光缆</td>
+	</tr>
+	<tr>
+		<td width="100">600105</td>
+		<td width="100">永鼎光缆</td>
+		<td width="100">600106</td>
+		<td width="100">重庆路桥</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600107</td>
+		<td width="100">美尔雅</td>
+		<td width="100">600108</td>
+		<td width="100">亚盛集团</td>
+	</tr>
+	<tr>
+		<td width="100">600108</td>
+		<td width="100">亚盛集团</td>
+		<td width="100">600109</td>
+		<td width="100">成都建设</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600110</td>
+		<td width="100">中科英华</td>
+		<td width="100">600111</td>
+		<td width="100">稀土高科</td>
+	</tr>
+	<tr>
+		<td width="100">600111</td>
+		<td width="100">稀土高科</td>
+		<td width="100">600112</td>
+		<td width="100">长征电器</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600113</td>
+		<td width="100">浙江东日</td>
+		<td width="100">600115</td>
+		<td width="100">东方航空</td>
+	</tr>
+	<tr>
+		<td width="100">600115</td>
+		<td width="100">东方航空</td>
+		<td width="100">600116</td>
+		<td width="100">三峡水利</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600117</td>
+		<td width="100">西宁特钢</td>
+		<td width="100">600118</td>
+		<td width="100">中国卫星</td>
+	</tr>
+	<tr>
+		<td width="100">600118</td>
+		<td width="100">中国卫星</td>
+		<td width="100">600119</td>
+		<td width="100">长江投资</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600120</td>
+		<td width="100">浙江东方</td>
+		<td width="100">600121</td>
+		<td width="100">郑州煤电</td>
+	</tr>
+	<tr>
+		<td width="100">600121</td>
+		<td width="100">郑州煤电</td>
+		<td width="100">600122</td>
+		<td width="100">宏图高科</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600123</td>
+		<td width="100">兰花科创</td>
+		<td width="100">600125</td>
+		<td width="100">铁龙股份</td>
+	</tr>
+	<tr>
+		<td width="100">600125</td>
+		<td width="100">铁龙股份</td>
+		<td width="100">600126</td>
+		<td width="100">杭钢股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600127</td>
+		<td width="100">金健米业</td>
+		<td width="100">600128</td>
+		<td width="100">弘业股份</td>
+	</tr>
+	<tr>
+		<td width="100">600128</td>
+		<td width="100">弘业股份</td>
+		<td width="100">600129</td>
+		<td width="100">太极集团</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600130</td>
+		<td width="100">波导股份</td>
+		<td width="100">600131</td>
+		<td width="100">岷江水电</td>
+	</tr>
+	<tr>
+		<td width="100">600131</td>
+		<td width="100">岷江水电</td>
+		<td width="100">600132</td>
+		<td width="100">重庆啤酒</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600133</td>
+		<td width="100">东湖高新</td>
+		<td width="100">600135</td>
+		<td width="100">乐凯胶片</td>
+	</tr>
+	<tr>
+		<td width="100">600135</td>
+		<td width="100">乐凯胶片</td>
+		<td width="100">600136</td>
+		<td width="100">道博股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600137</td>
+		<td width="100">ST长控</td>
+		<td width="100">600138</td>
+		<td width="100">中青旅</td>
+	</tr>
+	<tr>
+		<td width="100">600138</td>
+		<td width="100">中青旅</td>
+		<td width="100">600139</td>
+		<td width="100">ST鼎天</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600141</td>
+		<td width="100">兴发集团</td>
+		<td width="100">600145</td>
+		<td width="100">四维瓷业</td>
+	</tr>
+	<tr>
+		<td width="100">600145</td>
+		<td width="100">四维瓷业</td>
+		<td width="100">600146</td>
+		<td width="100">大元股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600148</td>
+		<td width="100">长春一东</td>
+		<td width="100">600149</td>
+		<td width="100">邢台轧辊</td>
+	</tr>
+	<tr>
+		<td width="100">600149</td>
+		<td width="100">邢台轧辊</td>
+		<td width="100">600150</td>
+		<td width="100">沪东重机</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600151</td>
+		<td width="100">航天机电</td>
+		<td width="100">600152</td>
+		<td width="100">维科精华</td>
+	</tr>
+	<tr>
+		<td width="100">600152</td>
+		<td width="100">维科精华</td>
+		<td width="100">600153</td>
+		<td width="100">厦门建发</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600155</td>
+		<td width="100">宝硕股份</td>
+		<td width="100">600156</td>
+		<td width="100">益鑫泰</td>
+	</tr>
+	<tr>
+		<td width="100">600156</td>
+		<td width="100">益鑫泰</td>
+		<td width="100">600157</td>
+		<td width="100">鲁润股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600158</td>
+		<td width="100">中体产业</td>
+		<td width="100">600159</td>
+		<td width="100">宁城老窖</td>
+	</tr>
+	<tr>
+		<td width="100">600159</td>
+		<td width="100">宁城老窖</td>
+		<td width="100">600160</td>
+		<td width="100">巨化股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600161</td>
+		<td width="100">天坛生物</td>
+		<td width="100">600162</td>
+		<td width="100">山东临工</td>
+	</tr>
+	<tr>
+		<td width="100">600162</td>
+		<td width="100">山东临工</td>
+		<td width="100">600163</td>
+		<td width="100">福建南纸</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600165</td>
+		<td width="100">宁夏恒力</td>
+		<td width="100">600166</td>
+		<td width="100">福田汽车</td>
+	</tr>
+	<tr>
+		<td width="100">600166</td>
+		<td width="100">福田汽车</td>
+		<td width="100">600167</td>
+		<td width="100">沈阳新开</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600168</td>
+		<td width="100">武汉控股</td>
+		<td width="100">600169</td>
+		<td width="100">太原重工</td>
+	</tr>
+	<tr>
+		<td width="100">600169</td>
+		<td width="100">太原重工</td>
+		<td width="100">600170</td>
+		<td width="100">上海建工</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600171</td>
+		<td width="100">上海贝岭</td>
+		<td width="100">600172</td>
+		<td width="100">黄河旋风</td>
+	</tr>
+	<tr>
+		<td width="100">600172</td>
+		<td width="100">黄河旋风</td>
+		<td width="100">600173</td>
+		<td width="100">牡丹江</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600175</td>
+		<td width="100">美都控股</td>
+		<td width="100">600176</td>
+		<td width="100">中国化建</td>
+	</tr>
+	<tr>
+		<td width="100">600176</td>
+		<td width="100">中国化建</td>
+		<td width="100">600177</td>
+		<td width="100">雅戈尔</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600178</td>
+		<td width="100">东安动力</td>
+		<td width="100">600179</td>
+		<td width="100">黑化股份</td>
+	</tr>
+	<tr>
+		<td width="100">600179</td>
+		<td width="100">黑化股份</td>
+		<td width="100">600180</td>
+		<td width="100">九发股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600181</td>
+		<td width="100">云大科技</td>
+		<td width="100">600182</td>
+		<td width="100">ST桦林</td>
+	</tr>
+	<tr>
+		<td width="100">600182</td>
+		<td width="100">ST桦林</td>
+		<td width="100">600183</td>
+		<td width="100">生益科技</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600185</td>
+		<td width="100">海星科技</td>
+		<td width="100">600186</td>
+		<td width="100">莲花味精</td>
+	</tr>
+	<tr>
+		<td width="100">600186</td>
+		<td width="100">莲花味精</td>
+		<td width="100">600187</td>
+		<td width="100">黑龙股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600188</td>
+		<td width="100">兖州煤业</td>
+		<td width="100">600189</td>
+		<td width="100">吉林森工</td>
+	</tr>
+	<tr>
+		<td width="100">600189</td>
+		<td width="100">吉林森工</td>
+		<td width="100">600190</td>
+		<td width="100">ST锦州港</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600191</td>
+		<td width="100">华资实业</td>
+		<td width="100">600192</td>
+		<td width="100">长城电工</td>
+	</tr>
+	<tr>
+		<td width="100">600192</td>
+		<td width="100">长城电工</td>
+		<td width="100">600193</td>
+		<td width="100">创兴科技</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600195</td>
+		<td width="100">中牧股份</td>
+		<td width="100">600196</td>
+		<td width="100">复星实业</td>
+	</tr>
+	<tr>
+		<td width="100">600196</td>
+		<td width="100">复星实业</td>
+		<td width="100">600197</td>
+		<td width="100">伊力特</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600198</td>
+		<td width="100">大唐电信</td>
+		<td width="100">600199</td>
+		<td width="100">金牛实业</td>
+	</tr>
+	<tr>
+		<td width="100">600199</td>
+		<td width="100">金牛实业</td>
+		<td width="100">600200</td>
+		<td width="100">江苏吴中</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600201</td>
+		<td width="100">金宇集团</td>
+		<td width="100">600202</td>
+		<td width="100">哈空调</td>
+	</tr>
+	<tr>
+		<td width="100">600202</td>
+		<td width="100">哈空调</td>
+		<td width="100">600203</td>
+		<td width="100">福日股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600205</td>
+		<td width="100">山东铝业</td>
+		<td width="100">600206</td>
+		<td width="100">有研硅股</td>
+	</tr>
+	<tr>
+		<td width="100">600206</td>
+		<td width="100">有研硅股</td>
+		<td width="100">600207</td>
+		<td width="100">安彩高科</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600208</td>
+		<td width="100">中宝股份</td>
+		<td width="100">600209</td>
+		<td width="100">罗顿发展</td>
+	</tr>
+	<tr>
+		<td width="100">600209</td>
+		<td width="100">罗顿发展</td>
+		<td width="100">600210</td>
+		<td width="100">紫江企业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600211</td>
+		<td width="100">西藏药业</td>
+		<td width="100">600212</td>
+		<td width="100">江泉实业</td>
+	</tr>
+	<tr>
+		<td width="100">600212</td>
+		<td width="100">江泉实业</td>
+		<td width="100">600213</td>
+		<td width="100">亚星客车</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600215</td>
+		<td width="100">长春经开</td>
+		<td width="100">600216</td>
+		<td width="100">浙江医药</td>
+	</tr>
+	<tr>
+		<td width="100">600216</td>
+		<td width="100">浙江医药</td>
+		<td width="100">600217</td>
+		<td width="100">秦岭水泥</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600218</td>
+		<td width="100">全柴动力</td>
+		<td width="100">600219</td>
+		<td width="100">南山实业</td>
+	</tr>
+	<tr>
+		<td width="100">600219</td>
+		<td width="100">南山实业</td>
+		<td width="100">600220</td>
+		<td width="100">江苏阳光</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600221</td>
+		<td width="100">海南航空</td>
+		<td width="100">600222</td>
+		<td width="100">竹林众生</td>
+	</tr>
+	<tr>
+		<td width="100">600222</td>
+		<td width="100">竹林众生</td>
+		<td width="100">600223</td>
+		<td width="100">万杰高科</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600225</td>
+		<td width="100">天香集团</td>
+		<td width="100">600226</td>
+		<td width="100">升华拜克</td>
+	</tr>
+	<tr>
+		<td width="100">600226</td>
+		<td width="100">升华拜克</td>
+		<td width="100">600227</td>
+		<td width="100">赤天化</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600228</td>
+		<td width="100">昌九生化</td>
+		<td width="100">600229</td>
+		<td width="100">青岛碱业</td>
+	</tr>
+	<tr>
+		<td width="100">600229</td>
+		<td width="100">青岛碱业</td>
+		<td width="100">600230</td>
+		<td width="100">沧州大化</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600231</td>
+		<td width="100">凌钢股份</td>
+		<td width="100">600232</td>
+		<td width="100">金鹰股份</td>
+	</tr>
+	<tr>
+		<td width="100">600232</td>
+		<td width="100">金鹰股份</td>
+		<td width="100">600233</td>
+		<td width="100">大连创世</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600234</td>
+		<td width="100">ST天龙</td>
+		<td width="100">600235</td>
+		<td width="100">民丰特纸</td>
+	</tr>
+	<tr>
+		<td width="100">600235</td>
+		<td width="100">民丰特纸</td>
+		<td width="100">600236</td>
+		<td width="100">桂冠电力</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600237</td>
+		<td width="100">铜峰电子</td>
+		<td width="100">600238</td>
+		<td width="100">海南椰岛</td>
+	</tr>
+	<tr>
+		<td width="100">600238</td>
+		<td width="100">海南椰岛</td>
+		<td width="100">600239</td>
+		<td width="100">红河光明</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600240</td>
+		<td width="100">仕奇实业</td>
+		<td width="100">600241</td>
+		<td width="100">辽宁时代</td>
+	</tr>
+	<tr>
+		<td width="100">600241</td>
+		<td width="100">辽宁时代</td>
+		<td width="100">600242</td>
+		<td width="100">华龙集团</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600243</td>
+		<td width="100">青海华鼎</td>
+		<td width="100">600246</td>
+		<td width="100">先锋股份</td>
+	</tr>
+	<tr>
+		<td width="100">600246</td>
+		<td width="100">先锋股份</td>
+		<td width="100">600247</td>
+		<td width="100">物华股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600248</td>
+		<td width="100">秦丰农业</td>
+		<td width="100">600250</td>
+		<td width="100">南纺股份</td>
+	</tr>
+	<tr>
+		<td width="100">600250</td>
+		<td width="100">南纺股份</td>
+		<td width="100">600251</td>
+		<td width="100">冠农股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600252</td>
+		<td width="100">梧州中恒</td>
+		<td width="100">600253</td>
+		<td width="100">天方药业</td>
+	</tr>
+	<tr>
+		<td width="100">600253</td>
+		<td width="100">天方药业</td>
+		<td width="100">600255</td>
+		<td width="100">鑫科材料</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600256</td>
+		<td width="100">广汇股份</td>
+		<td width="100">600257</td>
+		<td width="100">洞庭水殖</td>
+	</tr>
+	<tr>
+		<td width="100">600257</td>
+		<td width="100">洞庭水殖</td>
+		<td width="100">600258</td>
+		<td width="100">首旅股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600259</td>
+		<td width="100">兴业聚酯</td>
+		<td width="100">600260</td>
+		<td width="100">凯乐科技</td>
+	</tr>
+	<tr>
+		<td width="100">600260</td>
+		<td width="100">凯乐科技</td>
+		<td width="100">600261</td>
+		<td width="100">浙江阳光</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600262</td>
+		<td width="100">北方股份</td>
+		<td width="100">600263</td>
+		<td width="100">路桥建设</td>
+	</tr>
+	<tr>
+		<td width="100">600263</td>
+		<td width="100">路桥建设</td>
+		<td width="100">600265</td>
+		<td width="100">景谷林业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600266</td>
+		<td width="100">北京城建</td>
+		<td width="100">600267</td>
+		<td width="100">海正药业</td>
+	</tr>
+	<tr>
+		<td width="100">600267</td>
+		<td width="100">海正药业</td>
+		<td width="100">600268</td>
+		<td width="100">国电南自</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600269</td>
+		<td width="100">赣粤高速</td>
+		<td width="100">600270</td>
+		<td width="100">外运发展</td>
+	</tr>
+	<tr>
+		<td width="100">600270</td>
+		<td width="100">外运发展</td>
+		<td width="100">600271</td>
+		<td width="100">航天信息</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600272</td>
+		<td width="100">开开实业</td>
+		<td width="100">600273</td>
+		<td width="100">华芳纺织</td>
+	</tr>
+	<tr>
+		<td width="100">600273</td>
+		<td width="100">华芳纺织</td>
+		<td width="100">600275</td>
+		<td width="100">武昌鱼</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600276</td>
+		<td width="100">恒瑞医药</td>
+		<td width="100">600277</td>
+		<td width="100">亿利科技</td>
+	</tr>
+	<tr>
+		<td width="100">600277</td>
+		<td width="100">亿利科技</td>
+		<td width="100">600278</td>
+		<td width="100">东方创业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600279</td>
+		<td width="100">重庆港九</td>
+		<td width="100">600280</td>
+		<td width="100">南京中商</td>
+	</tr>
+	<tr>
+		<td width="100">600280</td>
+		<td width="100">南京中商</td>
+		<td width="100">600281</td>
+		<td width="100">太化股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600282</td>
+		<td width="100">南钢股份</td>
+		<td width="100">600283</td>
+		<td width="100">钱江水利</td>
+	</tr>
+	<tr>
+		<td width="100">600283</td>
+		<td width="100">钱江水利</td>
+		<td width="100">600285</td>
+		<td width="100">羚锐股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600286</td>
+		<td width="100">国光瓷业</td>
+		<td width="100">600287</td>
+		<td width="100">江苏舜天</td>
+	</tr>
+	<tr>
+		<td width="100">600287</td>
+		<td width="100">江苏舜天</td>
+		<td width="100">600288</td>
+		<td width="100">大恒科技</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600289</td>
+		<td width="100">亿阳信通</td>
+		<td width="100">600290</td>
+		<td width="100">苏福马</td>
+	</tr>
+	<tr>
+		<td width="100">600290</td>
+		<td width="100">苏福马</td>
+		<td width="100">600291</td>
+		<td width="100">西水股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600292</td>
+		<td width="100">九龙电力</td>
+		<td width="100">600293</td>
+		<td width="100">三峡新材</td>
+	</tr>
+	<tr>
+		<td width="100">600293</td>
+		<td width="100">三峡新材</td>
+		<td width="100">600295</td>
+		<td width="100">鄂尔多斯</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600296</td>
+		<td width="100">兰州铝业</td>
+		<td width="100">600297</td>
+		<td width="100">美罗药业</td>
+	</tr>
+	<tr>
+		<td width="100">600297</td>
+		<td width="100">美罗药业</td>
+		<td width="100">600298</td>
+		<td width="100">安琪酵母</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600299</td>
+		<td width="100">星新材料</td>
+		<td width="100">600300</td>
+		<td width="100">维维股份</td>
+	</tr>
+	<tr>
+		<td width="100">600300</td>
+		<td width="100">维维股份</td>
+		<td width="100">600301</td>
+		<td width="100">南化股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600302</td>
+		<td width="100">标准股份</td>
+		<td width="100">600303</td>
+		<td width="100">曙光股份</td>
+	</tr>
+	<tr>
+		<td width="100">600303</td>
+		<td width="100">曙光股份</td>
+		<td width="100">600305</td>
+		<td width="100">恒顺醋业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600306</td>
+		<td width="100">商业城</td>
+		<td width="100">600307</td>
+		<td width="100">酒钢宏兴</td>
+	</tr>
+	<tr>
+		<td width="100">600307</td>
+		<td width="100">酒钢宏兴</td>
+		<td width="100">600308</td>
+		<td width="100">华泰股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600309</td>
+		<td width="100">烟台万华</td>
+		<td width="100">600310</td>
+		<td width="100">桂东电力</td>
+	</tr>
+	<tr>
+		<td width="100">600310</td>
+		<td width="100">桂东电力</td>
+		<td width="100">600311</td>
+		<td width="100">荣华实业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600312</td>
+		<td width="100">平高电气</td>
+		<td width="100">600313</td>
+		<td width="100">ST中农</td>
+	</tr>
+	<tr>
+		<td width="100">600313</td>
+		<td width="100">ST中农</td>
+		<td width="100">600315</td>
+		<td width="100">上海家化</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600316</td>
+		<td width="100">洪都航空</td>
+		<td width="100">600317</td>
+		<td width="100">营口港</td>
+	</tr>
+	<tr>
+		<td width="100">600317</td>
+		<td width="100">营口港</td>
+		<td width="100">600318</td>
+		<td width="100">巢东股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600319</td>
+		<td width="100">亚星化学</td>
+		<td width="100">600320</td>
+		<td width="100">振华港机</td>
+	</tr>
+	<tr>
+		<td width="100">600320</td>
+		<td width="100">振华港机</td>
+		<td width="100">600321</td>
+		<td width="100">国栋建设</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600322</td>
+		<td width="100">天房发展</td>
+		<td width="100">600323</td>
+		<td width="100">南海发展</td>
+	</tr>
+	<tr>
+		<td width="100">600323</td>
+		<td width="100">南海发展</td>
+		<td width="100">600326</td>
+		<td width="100">西藏天路</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600327</td>
+		<td width="100">大厦股份</td>
+		<td width="100">600328</td>
+		<td width="100">兰太实业</td>
+	</tr>
+	<tr>
+		<td width="100">600328</td>
+		<td width="100">兰太实业</td>
+		<td width="100">600329</td>
+		<td width="100">中新药业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600330</td>
+		<td width="100">天通股份</td>
+		<td width="100">600331</td>
+		<td width="100">宏达股份</td>
+	</tr>
+	<tr>
+		<td width="100">600331</td>
+		<td width="100">宏达股份</td>
+		<td width="100">600332</td>
+		<td width="100">广州药业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600333</td>
+		<td width="100">长春燃气</td>
+		<td width="100">600335</td>
+		<td width="100">中发展</td>
+	</tr>
+	<tr>
+		<td width="100">600335</td>
+		<td width="100">中发展</td>
+		<td width="100">600336</td>
+		<td width="100">澳柯玛</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600337</td>
+		<td width="100">美克股份</td>
+		<td width="100">600338</td>
+		<td width="100">珠峰摩托</td>
+	</tr>
+	<tr>
+		<td width="100">600338</td>
+		<td width="100">珠峰摩托</td>
+		<td width="100">600339</td>
+		<td width="100">天利高新</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600343</td>
+		<td width="100">航天动力</td>
+		<td width="100">600345</td>
+		<td width="100">长江通信</td>
+	</tr>
+	<tr>
+		<td width="100">600345</td>
+		<td width="100">长江通信</td>
+		<td width="100">600346</td>
+		<td width="100">冰山橡塑</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600348</td>
+		<td width="100">国阳新能</td>
+		<td width="100">600350</td>
+		<td width="100">山东基建</td>
+	</tr>
+	<tr>
+		<td width="100">600350</td>
+		<td width="100">山东基建</td>
+		<td width="100">600351</td>
+		<td width="100">亚宝药业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600352</td>
+		<td width="100">浙江龙盛</td>
+		<td width="100">600353</td>
+		<td width="100">旭光股份</td>
+	</tr>
+	<tr>
+		<td width="100">600353</td>
+		<td width="100">旭光股份</td>
+		<td width="100">600355</td>
+		<td width="100">精伦电子</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600356</td>
+		<td width="100">恒丰纸业</td>
+		<td width="100">600357</td>
+		<td width="100">承德钒钛</td>
+	</tr>
+	<tr>
+		<td width="100">600357</td>
+		<td width="100">承德钒钛</td>
+		<td width="100">600358</td>
+		<td width="100">国旅联合</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600359</td>
+		<td width="100">新农开发</td>
+		<td width="100">600360</td>
+		<td width="100">华微电子</td>
+	</tr>
+	<tr>
+		<td width="100">600360</td>
+		<td width="100">华微电子</td>
+		<td width="100">600361</td>
+		<td width="100">华联综超</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600362</td>
+		<td width="100">江西铜业</td>
+		<td width="100">600363</td>
+		<td width="100">联创光电</td>
+	</tr>
+	<tr>
+		<td width="100">600363</td>
+		<td width="100">联创光电</td>
+		<td width="100">600365</td>
+		<td width="100">通葡萄酒</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600366</td>
+		<td width="100">宁波韵升</td>
+		<td width="100">600367</td>
+		<td width="100">红星发展</td>
+	</tr>
+	<tr>
+		<td width="100">600367</td>
+		<td width="100">红星发展</td>
+		<td width="100">600368</td>
+		<td width="100">五洲交通</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600369</td>
+		<td width="100">长运股份</td>
+		<td width="100">600370</td>
+		<td width="100">三房巷</td>
+	</tr>
+	<tr>
+		<td width="100">600370</td>
+		<td width="100">三房巷</td>
+		<td width="100">600371</td>
+		<td width="100">华冠科技</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600372</td>
+		<td width="100">昌河股份</td>
+		<td width="100">600373</td>
+		<td width="100">鑫新股份</td>
+	</tr>
+	<tr>
+		<td width="100">600373</td>
+		<td width="100">鑫新股份</td>
+		<td width="100">600375</td>
+		<td width="100">星马汽车</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600376</td>
+		<td width="100">天鸿宝业</td>
+		<td width="100">600377</td>
+		<td width="100">宁沪高速</td>
+	</tr>
+	<tr>
+		<td width="100">600377</td>
+		<td width="100">宁沪高速</td>
+		<td width="100">600378</td>
+		<td width="100">天科股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600379</td>
+		<td width="100">宝光股份</td>
+		<td width="100">600380</td>
+		<td width="100">太太药业</td>
+	</tr>
+	<tr>
+		<td width="100">600380</td>
+		<td width="100">太太药业</td>
+		<td width="100">600381</td>
+		<td width="100">白唇鹿</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600382</td>
+		<td width="100">广东明珠</td>
+		<td width="100">600383</td>
+		<td width="100">金地集团</td>
+	</tr>
+	<tr>
+		<td width="100">600383</td>
+		<td width="100">金地集团</td>
+		<td width="100">600385</td>
+		<td width="100">ST金泰</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600386</td>
+		<td width="100">北京巴士</td>
+		<td width="100">600388</td>
+		<td width="100">龙净环保</td>
+	</tr>
+	<tr>
+		<td width="100">600388</td>
+		<td width="100">龙净环保</td>
+		<td width="100">600389</td>
+		<td width="100">江山股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600390</td>
+		<td width="100">金瑞科技</td>
+		<td width="100">600391</td>
+		<td width="100">成发科技</td>
+	</tr>
+	<tr>
+		<td width="100">600391</td>
+		<td width="100">成发科技</td>
+		<td width="100">600392</td>
+		<td width="100">太工天成</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600393</td>
+		<td width="100">东华实业</td>
+		<td width="100">600395</td>
+		<td width="100">盘江股份</td>
+	</tr>
+	<tr>
+		<td width="100">600395</td>
+		<td width="100">盘江股份</td>
+		<td width="100">600396</td>
+		<td width="100">金山股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600397</td>
+		<td width="100">安源股份</td>
+		<td width="100">600398</td>
+		<td width="100">凯诺科技</td>
+	</tr>
+	<tr>
+		<td width="100">600398</td>
+		<td width="100">凯诺科技</td>
+		<td width="100">600399</td>
+		<td width="100">抚顺特钢</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600400</td>
+		<td width="100">红豆股份</td>
+		<td width="100">600408</td>
+		<td width="100">安泰集团</td>
+	</tr>
+	<tr>
+		<td width="100">600408</td>
+		<td width="100">安泰集团</td>
+		<td width="100">600409</td>
+		<td width="100">三友化工</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600415</td>
+		<td width="100">小商品城</td>
+		<td width="100">600416</td>
+		<td width="100">湘电股份</td>
+	</tr>
+	<tr>
+		<td width="100">600416</td>
+		<td width="100">湘电股份</td>
+		<td width="100">600418</td>
+		<td width="100">江淮汽车</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600419</td>
+		<td width="100">新疆天宏</td>
+		<td width="100">600422</td>
+		<td width="100">昆明制药</td>
+	</tr>
+	<tr>
+		<td width="100">600422</td>
+		<td width="100">昆明制药</td>
+		<td width="100">600423</td>
+		<td width="100">柳化股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600425</td>
+		<td width="100">青松建化</td>
+		<td width="100">600426</td>
+		<td width="100">华鲁恒升</td>
+	</tr>
+	<tr>
+		<td width="100">600426</td>
+		<td width="100">华鲁恒升</td>
+		<td width="100">600428</td>
+		<td width="100">中远航运</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600429</td>
+		<td width="100">三元股份</td>
+		<td width="100">600432</td>
+		<td width="100">吉恩镍业</td>
+	</tr>
+	<tr>
+		<td width="100">600432</td>
+		<td width="100">吉恩镍业</td>
+		<td width="100">600433</td>
+		<td width="100">冠豪高科</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600435</td>
+		<td width="100">北方天鸟</td>
+		<td width="100">600436</td>
+		<td width="100">片仔癀</td>
+	</tr>
+	<tr>
+		<td width="100">600436</td>
+		<td width="100">片仔癀</td>
+		<td width="100">600439</td>
+		<td width="100">瑞贝卡</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600448</td>
+		<td width="100">华纺股份</td>
+		<td width="100">600449</td>
+		<td width="100">赛马实业</td>
+	</tr>
+	<tr>
+		<td width="100">600449</td>
+		<td width="100">赛马实业</td>
+		<td width="100">600456</td>
+		<td width="100">宝钛股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600458</td>
+		<td width="100">时代新材</td>
+		<td width="100">600459</td>
+		<td width="100">贵研铂业</td>
+	</tr>
+	<tr>
+		<td width="100">600459</td>
+		<td width="100">贵研铂业</td>
+		<td width="100">600460</td>
+		<td width="100">士兰微</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600462</td>
+		<td width="100">石岘纸业</td>
+		<td width="100">600466</td>
+		<td width="100">迪康药业</td>
+	</tr>
+	<tr>
+		<td width="100">600466</td>
+		<td width="100">迪康药业</td>
+		<td width="100">600468</td>
+		<td width="100">特精股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600475</td>
+		<td width="100">华光股份</td>
+		<td width="100">600480</td>
+		<td width="100">凌云股份</td>
+	</tr>
+	<tr>
+		<td width="100">600480</td>
+		<td width="100">凌云股份</td>
+		<td width="100">600481</td>
+		<td width="100">双良空调</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600485</td>
+		<td width="100">中创信测</td>
+		<td width="100">600486</td>
+		<td width="100">扬农化工</td>
+	</tr>
+	<tr>
+		<td width="100">600486</td>
+		<td width="100">扬农化工</td>
+		<td width="100">600487</td>
+		<td width="100">亨通光电</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600488</td>
+		<td width="100">天药股份</td>
+		<td width="100">600489</td>
+		<td width="100">中金黄金</td>
+	</tr>
+	<tr>
+		<td width="100">600489</td>
+		<td width="100">中金黄金</td>
+		<td width="100">600490</td>
+		<td width="100">中科合臣</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600496</td>
+		<td width="100">长江股份</td>
+		<td width="100">600498</td>
+		<td width="100">烽火通信</td>
+	</tr>
+	<tr>
+		<td width="100">600498</td>
+		<td width="100">烽火通信</td>
+		<td width="100">600499</td>
+		<td width="100">科达机电</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600500</td>
+		<td width="100">中化国际</td>
+		<td width="100">600501</td>
+		<td width="100">航天晨光</td>
+	</tr>
+	<tr>
+		<td width="100">600501</td>
+		<td width="100">航天晨光</td>
+		<td width="100">600502</td>
+		<td width="100">安徽水利</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600503</td>
+		<td width="100">宏智科技</td>
+		<td width="100">600505</td>
+		<td width="100">西昌电力</td>
+	</tr>
+	<tr>
+		<td width="100">600505</td>
+		<td width="100">西昌电力</td>
+		<td width="100">600506</td>
+		<td width="100">香梨股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600508</td>
+		<td width="100">上海能源</td>
+		<td width="100">600509</td>
+		<td width="100">天富热电</td>
+	</tr>
+	<tr>
+		<td width="100">600509</td>
+		<td width="100">天富热电</td>
+		<td width="100">600510</td>
+		<td width="100">黑牡丹</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600511</td>
+		<td width="100">国药股份</td>
+		<td width="100">600512</td>
+		<td width="100">腾达建设</td>
+	</tr>
+	<tr>
+		<td width="100">600512</td>
+		<td width="100">腾达建设</td>
+		<td width="100">600513</td>
+		<td width="100">联环药业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600515</td>
+		<td width="100">第一投资</td>
+		<td width="100">600516</td>
+		<td width="100">海龙科技</td>
+	</tr>
+	<tr>
+		<td width="100">600516</td>
+		<td width="100">海龙科技</td>
+		<td width="100">600518</td>
+		<td width="100">康美药业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600519</td>
+		<td width="100">贵州茅台</td>
+		<td width="100">600520</td>
+		<td width="100">三佳模具</td>
+	</tr>
+	<tr>
+		<td width="100">600520</td>
+		<td width="100">三佳模具</td>
+		<td width="100">600521</td>
+		<td width="100">华海药业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600522</td>
+		<td width="100">中天科技</td>
+		<td width="100">600523</td>
+		<td width="100">贵航股份</td>
+	</tr>
+	<tr>
+		<td width="100">600523</td>
+		<td width="100">贵航股份</td>
+		<td width="100">600525</td>
+		<td width="100">长园新材</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600526</td>
+		<td width="100">菲达环保</td>
+		<td width="100">600528</td>
+		<td width="100">中铁二局</td>
+	</tr>
+	<tr>
+		<td width="100">600528</td>
+		<td width="100">中铁二局</td>
+		<td width="100">600529</td>
+		<td width="100">山东药玻</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600530</td>
+		<td width="100">交大昂立</td>
+		<td width="100">600531</td>
+		<td width="100">豫光金铅</td>
+	</tr>
+	<tr>
+		<td width="100">600531</td>
+		<td width="100">豫光金铅</td>
+		<td width="100">600532</td>
+		<td width="100">华阳科技</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600533</td>
+		<td width="100">栖霞建设</td>
+		<td width="100">600535</td>
+		<td width="100">天士力</td>
+	</tr>
+	<tr>
+		<td width="100">600535</td>
+		<td width="100">天士力</td>
+		<td width="100">600536</td>
+		<td width="100">中软股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600537</td>
+		<td width="100">海通集团</td>
+		<td width="100">600538</td>
+		<td width="100">北海国发</td>
+	</tr>
+	<tr>
+		<td width="100">600538</td>
+		<td width="100">北海国发</td>
+		<td width="100">600539</td>
+		<td width="100">狮头股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600546</td>
+		<td width="100">中油化建</td>
+		<td width="100">600547</td>
+		<td width="100">山东黄金</td>
+	</tr>
+	<tr>
+		<td width="100">600547</td>
+		<td width="100">山东黄金</td>
+		<td width="100">600548</td>
+		<td width="100">深高速</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600549</td>
+		<td width="100">厦门钨业</td>
+		<td width="100">600550</td>
+		<td width="100">天威保变</td>
+	</tr>
+	<tr>
+		<td width="100">600550</td>
+		<td width="100">天威保变</td>
+		<td width="100">600551</td>
+		<td width="100">科大创新</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600552</td>
+		<td width="100">方兴科技</td>
+		<td width="100">600553</td>
+		<td width="100">太行股份</td>
+	</tr>
+	<tr>
+		<td width="100">600553</td>
+		<td width="100">太行股份</td>
+		<td width="100">600555</td>
+		<td width="100">茉织华</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600556</td>
+		<td width="100">北生药业</td>
+		<td width="100">600557</td>
+		<td width="100">康缘药业</td>
+	</tr>
+	<tr>
+		<td width="100">600557</td>
+		<td width="100">康缘药业</td>
+		<td width="100">600558</td>
+		<td width="100">大西洋</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600559</td>
+		<td width="100">裕丰股份</td>
+		<td width="100">600560</td>
+		<td width="100">金自天正</td>
+	</tr>
+	<tr>
+		<td width="100">600560</td>
+		<td width="100">金自天正</td>
+		<td width="100">600561</td>
+		<td width="100">江西长运</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600562</td>
+		<td width="100">高淳陶瓷</td>
+		<td width="100">600563</td>
+		<td width="100">法拉电子</td>
+	</tr>
+	<tr>
+		<td width="100">600563</td>
+		<td width="100">法拉电子</td>
+		<td width="100">600565</td>
+		<td width="100">迪马股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600566</td>
+		<td width="100">洪城股份</td>
+		<td width="100">600567</td>
+		<td width="100">山鹰纸业</td>
+	</tr>
+	<tr>
+		<td width="100">600567</td>
+		<td width="100">山鹰纸业</td>
+		<td width="100">600568</td>
+		<td width="100">潜江制药</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600569</td>
+		<td width="100">安阳钢铁</td>
+		<td width="100">600570</td>
+		<td width="100">恒生电子</td>
+	</tr>
+	<tr>
+		<td width="100">600570</td>
+		<td width="100">恒生电子</td>
+		<td width="100">600571</td>
+		<td width="100">信雅达</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600573</td>
+		<td width="100">惠泉啤酒</td>
+		<td width="100">600575</td>
+		<td width="100">芜湖港</td>
+	</tr>
+	<tr>
+		<td width="100">600575</td>
+		<td width="100">芜湖港</td>
+		<td width="100">600576</td>
+		<td width="100">庆丰股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600577</td>
+		<td width="100">精达股份</td>
+		<td width="100">600578</td>
+		<td width="100">京能热电</td>
+	</tr>
+	<tr>
+		<td width="100">600578</td>
+		<td width="100">京能热电</td>
+		<td width="100">600579</td>
+		<td width="100">黄海股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600580</td>
+		<td width="100">卧龙科技</td>
+		<td width="100">600581</td>
+		<td width="100">八一钢铁</td>
+	</tr>
+	<tr>
+		<td width="100">600581</td>
+		<td width="100">八一钢铁</td>
+		<td width="100">600582</td>
+		<td width="100">天地科技</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600583</td>
+		<td width="100">海油工程</td>
+		<td width="100">600584</td>
+		<td width="100">长电科技</td>
+	</tr>
+	<tr>
+		<td width="100">600584</td>
+		<td width="100">长电科技</td>
+		<td width="100">600585</td>
+		<td width="100">海螺水泥</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600586</td>
+		<td width="100">金晶科技</td>
+		<td width="100">600587</td>
+		<td width="100">新华医疗</td>
+	</tr>
+	<tr>
+		<td width="100">600587</td>
+		<td width="100">新华医疗</td>
+		<td width="100">600588</td>
+		<td width="100">用友软件</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600589</td>
+		<td width="100">广东榕泰</td>
+		<td width="100">600590</td>
+		<td width="100">泰豪科技</td>
+	</tr>
+	<tr>
+		<td width="100">600590</td>
+		<td width="100">泰豪科技</td>
+		<td width="100">600591</td>
+		<td width="100">上海航空</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600592</td>
+		<td width="100">龙溪股份</td>
+		<td width="100">600593</td>
+		<td width="100">大连圣亚</td>
+	</tr>
+	<tr>
+		<td width="100">600593</td>
+		<td width="100">大连圣亚</td>
+		<td width="100">600595</td>
+		<td width="100">中孚实业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600596</td>
+		<td width="100">新安股份</td>
+		<td width="100">600597</td>
+		<td width="100">光明乳业</td>
+	</tr>
+	<tr>
+		<td width="100">600597</td>
+		<td width="100">光明乳业</td>
+		<td width="100">600598</td>
+		<td width="100">北大荒</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600599</td>
+		<td width="100">浏阳花炮</td>
+		<td width="100">600600</td>
+		<td width="100">青岛啤酒</td>
+	</tr>
+	<tr>
+		<td width="100">600600</td>
+		<td width="100">青岛啤酒</td>
+		<td width="100">600601</td>
+		<td width="100">方正科技</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600602</td>
+		<td width="100">广电电子</td>
+		<td width="100">600603</td>
+		<td width="100">兴业房产</td>
+	</tr>
+	<tr>
+		<td width="100">600603</td>
+		<td width="100">兴业房产</td>
+		<td width="100">600604</td>
+		<td width="100">二纺机</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600605</td>
+		<td width="100">轻工机械</td>
+		<td width="100">600606</td>
+		<td width="100">金丰投资</td>
+	</tr>
+	<tr>
+		<td width="100">600606</td>
+		<td width="100">金丰投资</td>
+		<td width="100">600607</td>
+		<td width="100">上实联合</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600608</td>
+		<td width="100">上海科技</td>
+		<td width="100">600609</td>
+		<td width="100">金杯汽车</td>
+	</tr>
+	<tr>
+		<td width="100">600609</td>
+		<td width="100">金杯汽车</td>
+		<td width="100">600610</td>
+		<td width="100">中国纺机</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600611</td>
+		<td width="100">大众交通</td>
+		<td width="100">600612</td>
+		<td width="100">第一铅笔</td>
+	</tr>
+	<tr>
+		<td width="100">600612</td>
+		<td width="100">第一铅笔</td>
+		<td width="100">600613</td>
+		<td width="100">永生数据</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600614</td>
+		<td width="100">三九发展</td>
+		<td width="100">600615</td>
+		<td width="100">丰华股份</td>
+	</tr>
+	<tr>
+		<td width="100">600615</td>
+		<td width="100">丰华股份</td>
+		<td width="100">600616</td>
+		<td width="100">第一食品</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600617</td>
+		<td width="100">联华合纤</td>
+		<td width="100">600618</td>
+		<td width="100">氯碱化工</td>
+	</tr>
+	<tr>
+		<td width="100">600618</td>
+		<td width="100">氯碱化工</td>
+		<td width="100">600619</td>
+		<td width="100">海立股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600620</td>
+		<td width="100">天宸股份</td>
+		<td width="100">600621</td>
+		<td width="100">上海金陵</td>
+	</tr>
+	<tr>
+		<td width="100">600621</td>
+		<td width="100">上海金陵</td>
+		<td width="100">600622</td>
+		<td width="100">嘉宝集团</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600623</td>
+		<td width="100">轮胎橡胶</td>
+		<td width="100">600624</td>
+		<td width="100">复旦复华</td>
+	</tr>
+	<tr>
+		<td width="100">600624</td>
+		<td width="100">复旦复华</td>
+		<td width="100">600625</td>
+		<td width="100">PT水仙</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600626</td>
+		<td width="100">申达股份</td>
+		<td width="100">600627</td>
+		<td width="100">电器股份</td>
+	</tr>
+	<tr>
+		<td width="100">600627</td>
+		<td width="100">电器股份</td>
+		<td width="100">600628</td>
+		<td width="100">新世界</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600629</td>
+		<td width="100">ST棱光</td>
+		<td width="100">600630</td>
+		<td width="100">龙头股份</td>
+	</tr>
+	<tr>
+		<td width="100">600630</td>
+		<td width="100">龙头股份</td>
+		<td width="100">600631</td>
+		<td width="100">第一百货</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600632</td>
+		<td width="100">华联商厦</td>
+		<td width="100">600633</td>
+		<td width="100">白猫股份</td>
+	</tr>
+	<tr>
+		<td width="100">600633</td>
+		<td width="100">白猫股份</td>
+		<td width="100">600634</td>
+		<td width="100">海鸟发展</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600635</td>
+		<td width="100">大众公用</td>
+		<td width="100">600636</td>
+		<td width="100">三爱富</td>
+	</tr>
+	<tr>
+		<td width="100">600636</td>
+		<td width="100">三爱富</td>
+		<td width="100">600637</td>
+		<td width="100">广电信息</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600638</td>
+		<td width="100">新黄浦</td>
+		<td width="100">600639</td>
+		<td width="100">浦东金桥</td>
+	</tr>
+	<tr>
+		<td width="100">600639</td>
+		<td width="100">浦东金桥</td>
+		<td width="100">600640</td>
+		<td width="100">联通国脉</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600641</td>
+		<td width="100">中远发展</td>
+		<td width="100">600642</td>
+		<td width="100">申能股份</td>
+	</tr>
+	<tr>
+		<td width="100">600642</td>
+		<td width="100">申能股份</td>
+		<td width="100">600643</td>
+		<td width="100">爱建股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600644</td>
+		<td width="100">乐山电力</td>
+		<td width="100">600645</td>
+		<td width="100">望春花</td>
+	</tr>
+	<tr>
+		<td width="100">600645</td>
+		<td width="100">望春花</td>
+		<td width="100">600646</td>
+		<td width="100">ST国嘉</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600647</td>
+		<td width="100">ST同达</td>
+		<td width="100">600648</td>
+		<td width="100">外高桥</td>
+	</tr>
+	<tr>
+		<td width="100">600648</td>
+		<td width="100">外高桥</td>
+		<td width="100">600649</td>
+		<td width="100">原水股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600650</td>
+		<td width="100">新锦江</td>
+		<td width="100">600651</td>
+		<td width="100">飞乐音响</td>
+	</tr>
+	<tr>
+		<td width="100">600651</td>
+		<td width="100">飞乐音响</td>
+		<td width="100">600652</td>
+		<td width="100">爱使股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600653</td>
+		<td width="100">申华控股</td>
+		<td width="100">600654</td>
+		<td width="100">飞乐股份</td>
+	</tr>
+	<tr>
+		<td width="100">600654</td>
+		<td width="100">飞乐股份</td>
+		<td width="100">600655</td>
+		<td width="100">豫园商城</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600656</td>
+		<td width="100">华源制药</td>
+		<td width="100">600657</td>
+		<td width="100">青鸟天桥</td>
+	</tr>
+	<tr>
+		<td width="100">600657</td>
+		<td width="100">青鸟天桥</td>
+		<td width="100">600658</td>
+		<td width="100">兆维科技</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600659</td>
+		<td width="100">神龙发展</td>
+		<td width="100">600660</td>
+		<td width="100">福耀玻璃</td>
+	</tr>
+	<tr>
+		<td width="100">600660</td>
+		<td width="100">福耀玻璃</td>
+		<td width="100">600661</td>
+		<td width="100">交大南洋</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600662</td>
+		<td width="100">上海强生</td>
+		<td width="100">600663</td>
+		<td width="100">陆家嘴</td>
+	</tr>
+	<tr>
+		<td width="100">600663</td>
+		<td width="100">陆家嘴</td>
+		<td width="100">600664</td>
+		<td width="100">哈药集团</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600665</td>
+		<td width="100">沪昌特钢</td>
+		<td width="100">600666</td>
+		<td width="100">西南药业</td>
+	</tr>
+	<tr>
+		<td width="100">600666</td>
+		<td width="100">西南药业</td>
+		<td width="100">600667</td>
+		<td width="100">太极实业</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600668</td>
+		<td width="100">尖峰集团</td>
+		<td width="100">600669</td>
+		<td width="100">ST鞍合成</td>
+	</tr>
+	<tr>
+		<td width="100">600669</td>
+		<td width="100">ST鞍合成</td>
+		<td width="100">600670</td>
+		<td width="100">ST高斯达</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600671</td>
+		<td width="100">天目药业</td>
+		<td width="100">600672</td>
+		<td width="100">ST英教</td>
+	</tr>
+	<tr>
+		<td width="100">600672</td>
+		<td width="100">ST英教</td>
+		<td width="100">600673</td>
+		<td width="100">成量股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600674</td>
+		<td width="100">川投控股</td>
+		<td width="100">600675</td>
+		<td width="100">中华企业</td>
+	</tr>
+	<tr>
+		<td width="100">600675</td>
+		<td width="100">中华企业</td>
+		<td width="100">600676</td>
+		<td width="100">交运股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600677</td>
+		<td width="100">航天通信</td>
+		<td width="100">600678</td>
+		<td width="100">四川金顶</td>
+	</tr>
+	<tr>
+		<td width="100">600678</td>
+		<td width="100">四川金顶</td>
+		<td width="100">600679</td>
+		<td width="100">凤凰股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600680</td>
+		<td width="100">上海邮通</td>
+		<td width="100">600681</td>
+		<td width="100">诚成文化</td>
+	</tr>
+	<tr>
+		<td width="100">600681</td>
+		<td width="100">诚成文化</td>
+		<td width="100">600682</td>
+		<td width="100">南京新百</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600683</td>
+		<td width="100">银泰股份</td>
+		<td width="100">600684</td>
+		<td width="100">珠江实业</td>
+	</tr>
+	<tr>
+		<td width="100">600684</td>
+		<td width="100">珠江实业</td>
+		<td width="100">600685</td>
+		<td width="100">广船国际</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600686</td>
+		<td width="100">厦门汽车</td>
+		<td width="100">600687</td>
+		<td width="100">新宇软件</td>
+	</tr>
+	<tr>
+		<td width="100">600687</td>
+		<td width="100">新宇软件</td>
+		<td width="100">600688</td>
+		<td width="100">上海石化</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600689</td>
+		<td width="100">上海三毛</td>
+		<td width="100">600690</td>
+		<td width="100">青岛海尔</td>
+	</tr>
+	<tr>
+		<td width="100">600690</td>
+		<td width="100">青岛海尔</td>
+		<td width="100">600691</td>
+		<td width="100">林凤控股</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600692</td>
+		<td width="100">亚通股份</td>
+		<td width="100">600693</td>
+		<td width="100">东百集团</td>
+	</tr>
+	<tr>
+		<td width="100">600693</td>
+		<td width="100">东百集团</td>
+		<td width="100">600694</td>
+		<td width="100">大商股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600695</td>
+		<td width="100">ST大江</td>
+		<td width="100">600696</td>
+		<td width="100">利嘉股份</td>
+	</tr>
+	<tr>
+		<td width="100">600696</td>
+		<td width="100">利嘉股份</td>
+		<td width="100">600697</td>
+		<td width="100">欧亚集团</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600698</td>
+		<td width="100">ST轻骑</td>
+		<td width="100">600699</td>
+		<td width="100">辽源得亨</td>
+	</tr>
+	<tr>
+		<td width="100">600699</td>
+		<td width="100">辽源得亨</td>
+		<td width="100">600700</td>
+		<td width="100">数码测绘</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600701</td>
+		<td width="100">工大高新</td>
+		<td width="100">600702</td>
+		<td width="100">沱牌曲酒</td>
+	</tr>
+	<tr>
+		<td width="100">600702</td>
+		<td width="100">沱牌曲酒</td>
+		<td width="100">600703</td>
+		<td width="100">天颐科技</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600704</td>
+		<td width="100">中大股份</td>
+		<td width="100">600705</td>
+		<td width="100">北亚集团</td>
+	</tr>
+	<tr>
+		<td width="100">600705</td>
+		<td width="100">北亚集团</td>
+		<td width="100">600706</td>
+		<td width="100">长安信息</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600707</td>
+		<td width="100">彩虹股份</td>
+		<td width="100">600708</td>
+		<td width="100">海博股份</td>
+	</tr>
+	<tr>
+		<td width="100">600708</td>
+		<td width="100">海博股份</td>
+		<td width="100">600709</td>
+		<td width="100">ST生态</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600710</td>
+		<td width="100">常林股份</td>
+		<td width="100">600711</td>
+		<td width="100">雄震集团</td>
+	</tr>
+	<tr>
+		<td width="100">600711</td>
+		<td width="100">雄震集团</td>
+		<td width="100">600712</td>
+		<td width="100">南宁百货</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600713</td>
+		<td width="100">南京医药</td>
+		<td width="100">600714</td>
+		<td width="100">山川股份</td>
+	</tr>
+	<tr>
+		<td width="100">600714</td>
+		<td width="100">山川股份</td>
+		<td width="100">600715</td>
+		<td width="100">ST松辽</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600716</td>
+		<td width="100">耀华玻璃</td>
+		<td width="100">600717</td>
+		<td width="100">天津港</td>
+	</tr>
+	<tr>
+		<td width="100">600717</td>
+		<td width="100">天津港</td>
+		<td width="100">600718</td>
+		<td width="100">东软股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600719</td>
+		<td width="100">大连热电</td>
+		<td width="100">600720</td>
+		<td width="100">祁连山</td>
+	</tr>
+	<tr>
+		<td width="100">600720</td>
+		<td width="100">祁连山</td>
+		<td width="100">600721</td>
+		<td width="100">百花村</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600722</td>
+		<td width="100">沧州化工</td>
+		<td width="100">600723</td>
+		<td width="100">西单商场</td>
+	</tr>
+	<tr>
+		<td width="100">600723</td>
+		<td width="100">西单商场</td>
+		<td width="100">600724</td>
+		<td width="100">宁波富达</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600725</td>
+		<td width="100">云维股份</td>
+		<td width="100">600726</td>
+		<td width="100">龙电股份</td>
+	</tr>
+	<tr>
+		<td width="100">600726</td>
+		<td width="100">龙电股份</td>
+		<td width="100">600727</td>
+		<td width="100">鲁北化工</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600728</td>
+		<td width="100">新太科技</td>
+		<td width="100">600729</td>
+		<td width="100">重庆百货</td>
+	</tr>
+	<tr>
+		<td width="100">600729</td>
+		<td width="100">重庆百货</td>
+		<td width="100">600730</td>
+		<td width="100">中国高科</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600731</td>
+		<td width="100">湖南海利</td>
+		<td width="100">600732</td>
+		<td width="100">上海港机</td>
+	</tr>
+	<tr>
+		<td width="100">600732</td>
+		<td width="100">上海港机</td>
+		<td width="100">600733</td>
+		<td width="100">前锋股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600734</td>
+		<td width="100">实达电脑</td>
+		<td width="100">600735</td>
+		<td width="100">兰陵陈香</td>
+	</tr>
+	<tr>
+		<td width="100">600735</td>
+		<td width="100">兰陵陈香</td>
+		<td width="100">600736</td>
+		<td width="100">苏州高新</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600737</td>
+		<td width="100">新疆屯河</td>
+		<td width="100">600738</td>
+		<td width="100">ST民百</td>
+	</tr>
+	<tr>
+		<td width="100">600738</td>
+		<td width="100">ST民百</td>
+		<td width="100">600739</td>
+		<td width="100">辽宁成大</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600740</td>
+		<td width="100">山西焦化</td>
+		<td width="100">600741</td>
+		<td width="100">巴士股份</td>
+	</tr>
+	<tr>
+		<td width="100">600741</td>
+		<td width="100">巴士股份</td>
+		<td width="100">600742</td>
+		<td width="100">一汽四环</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600743</td>
+		<td width="100">ST幸福</td>
+		<td width="100">600744</td>
+		<td width="100">华银电力</td>
+	</tr>
+	<tr>
+		<td width="100">600744</td>
+		<td width="100">华银电力</td>
+		<td width="100">600745</td>
+		<td width="100">天华股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600746</td>
+		<td width="100">江苏索普</td>
+		<td width="100">600747</td>
+		<td width="100">大显股份</td>
+	</tr>
+	<tr>
+		<td width="100">600747</td>
+		<td width="100">大显股份</td>
+		<td width="100">600748</td>
+		<td width="100">上实发展</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600749</td>
+		<td width="100">ST藏圣地</td>
+		<td width="100">600750</td>
+		<td width="100">江中药业</td>
+	</tr>
+	<tr>
+		<td width="100">600750</td>
+		<td width="100">江中药业</td>
+		<td width="100">600751</td>
+		<td width="100">ST天海</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600752</td>
+		<td width="100">哈慈股份</td>
+		<td width="100">600753</td>
+		<td width="100">ST冰熊</td>
+	</tr>
+	<tr>
+		<td width="100">600753</td>
+		<td width="100">ST冰熊</td>
+		<td width="100">600754</td>
+		<td width="100">新亚股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600755</td>
+		<td width="100">厦门国贸</td>
+		<td width="100">600756</td>
+		<td width="100">浪潮软件</td>
+	</tr>
+	<tr>
+		<td width="100">600756</td>
+		<td width="100">浪潮软件</td>
+		<td width="100">600757</td>
+		<td width="100">华源发展</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600758</td>
+		<td width="100">ST金帝</td>
+		<td width="100">600759</td>
+		<td width="100">ST琼华侨</td>
+	</tr>
+	<tr>
+		<td width="100">600759</td>
+		<td width="100">ST琼华侨</td>
+		<td width="100">600760</td>
+		<td width="100">ST黑豹</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600761</td>
+		<td width="100">安徽合力</td>
+		<td width="100">600762</td>
+		<td width="100">金荔科技</td>
+	</tr>
+	<tr>
+		<td width="100">600762</td>
+		<td width="100">金荔科技</td>
+		<td width="100">600763</td>
+		<td width="100">北京中燕</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600764</td>
+		<td width="100">三星石化</td>
+		<td width="100">600765</td>
+		<td width="100">力源液压</td>
+	</tr>
+	<tr>
+		<td width="100">600765</td>
+		<td width="100">力源液压</td>
+		<td width="100">600766</td>
+		<td width="100">ST烟发</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600767</td>
+		<td width="100">运盛实业</td>
+		<td width="100">600768</td>
+		<td width="100">宁波富邦</td>
+	</tr>
+	<tr>
+		<td width="100">600768</td>
+		<td width="100">宁波富邦</td>
+		<td width="100">600769</td>
+		<td width="100">ST祥龙</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600770</td>
+		<td width="100">综艺股份</td>
+		<td width="100">600771</td>
+		<td width="100">东盛科技</td>
+	</tr>
+	<tr>
+		<td width="100">600771</td>
+		<td width="100">东盛科技</td>
+		<td width="100">600772</td>
+		<td width="100">石油龙昌</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600773</td>
+		<td width="100">西藏金珠</td>
+		<td width="100">600774</td>
+		<td width="100">汉商集团</td>
+	</tr>
+	<tr>
+		<td width="100">600774</td>
+		<td width="100">汉商集团</td>
+		<td width="100">600775</td>
+		<td width="100">南京熊猫</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600776</td>
+		<td width="100">东方通信</td>
+		<td width="100">600777</td>
+		<td width="100">新潮实业</td>
+	</tr>
+	<tr>
+		<td width="100">600777</td>
+		<td width="100">新潮实业</td>
+		<td width="100">600778</td>
+		<td width="100">友好集团</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600779</td>
+		<td width="100">全兴股份</td>
+		<td width="100">600780</td>
+		<td width="100">通宝能源</td>
+	</tr>
+	<tr>
+		<td width="100">600780</td>
+		<td width="100">通宝能源</td>
+		<td width="100">600781</td>
+		<td width="100">ST民丰</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600782</td>
+		<td width="100">新华股份</td>
+		<td width="100">600783</td>
+		<td width="100">四砂股份</td>
+	</tr>
+	<tr>
+		<td width="100">600783</td>
+		<td width="100">四砂股份</td>
+		<td width="100">600784</td>
+		<td width="100">鲁银投资</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600785</td>
+		<td width="100">新华百货</td>
+		<td width="100">600786</td>
+		<td width="100">东方锅炉</td>
+	</tr>
+	<tr>
+		<td width="100">600786</td>
+		<td width="100">东方锅炉</td>
+		<td width="100">600787</td>
+		<td width="100">中储股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600788</td>
+		<td width="100">达尔曼</td>
+		<td width="100">600789</td>
+		<td width="100">鲁抗医药</td>
+	</tr>
+	<tr>
+		<td width="100">600789</td>
+		<td width="100">鲁抗医药</td>
+		<td width="100">600790</td>
+		<td width="100">轻纺城</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600791</td>
+		<td width="100">天创置业</td>
+		<td width="100">600792</td>
+		<td width="100">马龙产业</td>
+	</tr>
+	<tr>
+		<td width="100">600792</td>
+		<td width="100">马龙产业</td>
+		<td width="100">600793</td>
+		<td width="100">ST宜纸</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600794</td>
+		<td width="100">保税科技</td>
+		<td width="100">600795</td>
+		<td width="100">国电电力</td>
+	</tr>
+	<tr>
+		<td width="100">600795</td>
+		<td width="100">国电电力</td>
+		<td width="100">600796</td>
+		<td width="100">钱江生化</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600797</td>
+		<td width="100">浙大网新</td>
+		<td width="100">600798</td>
+		<td width="100">宁波海运</td>
+	</tr>
+	<tr>
+		<td width="100">600798</td>
+		<td width="100">宁波海运</td>
+		<td width="100">600799</td>
+		<td width="100">ST龙科</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600800</td>
+		<td width="100">天津磁卡</td>
+		<td width="100">600801</td>
+		<td width="100">华新水泥</td>
+	</tr>
+	<tr>
+		<td width="100">600801</td>
+		<td width="100">华新水泥</td>
+		<td width="100">600802</td>
+		<td width="100">福建水泥</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600803</td>
+		<td width="100">威远生化</td>
+		<td width="100">600804</td>
+		<td width="100">鹏博士</td>
+	</tr>
+	<tr>
+		<td width="100">600804</td>
+		<td width="100">鹏博士</td>
+		<td width="100">600805</td>
+		<td width="100">悦达投资</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600806</td>
+		<td width="100">交大科技</td>
+		<td width="100">600807</td>
+		<td width="100">ST济百</td>
+	</tr>
+	<tr>
+		<td width="100">600807</td>
+		<td width="100">ST济百</td>
+		<td width="100">600808</td>
+		<td width="100">马钢股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600809</td>
+		<td width="100">山西汾酒</td>
+		<td width="100">600810</td>
+		<td width="100">神马实业</td>
+	</tr>
+	<tr>
+		<td width="100">600810</td>
+		<td width="100">神马实业</td>
+		<td width="100">600811</td>
+		<td width="100">东方集团</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600812</td>
+		<td width="100">华北制药</td>
+		<td width="100">600813</td>
+		<td width="100">ST鞍一工</td>
+	</tr>
+	<tr>
+		<td width="100">600813</td>
+		<td width="100">ST鞍一工</td>
+		<td width="100">600814</td>
+		<td width="100">杭州解百</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600815</td>
+		<td width="100">厦工股份</td>
+		<td width="100">600816</td>
+		<td width="100">鞍山信托</td>
+	</tr>
+	<tr>
+		<td width="100">600816</td>
+		<td width="100">鞍山信托</td>
+		<td width="100">600817</td>
+		<td width="100">宏盛科技</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600818</td>
+		<td width="100">ST永久</td>
+		<td width="100">600819</td>
+		<td width="100">耀皮玻璃</td>
+	</tr>
+	<tr>
+		<td width="100">600819</td>
+		<td width="100">耀皮玻璃</td>
+		<td width="100">600820</td>
+		<td width="100">隧道股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600821</td>
+		<td width="100">津劝业</td>
+		<td width="100">600822</td>
+		<td width="100">物贸中心</td>
+	</tr>
+	<tr>
+		<td width="100">600822</td>
+		<td width="100">物贸中心</td>
+		<td width="100">600823</td>
+		<td width="100">世茂股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600824</td>
+		<td width="100">益民百货</td>
+		<td width="100">600825</td>
+		<td width="100">华联超市</td>
+	</tr>
+	<tr>
+		<td width="100">600825</td>
+		<td width="100">华联超市</td>
+		<td width="100">600826</td>
+		<td width="100">兰生股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600827</td>
+		<td width="100">友谊股份</td>
+		<td width="100">600828</td>
+		<td width="100">成商集团</td>
+	</tr>
+	<tr>
+		<td width="100">600828</td>
+		<td width="100">成商集团</td>
+		<td width="100">600829</td>
+		<td width="100">天鹅股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600830</td>
+		<td width="100">大红鹰</td>
+		<td width="100">600831</td>
+		<td width="100">广电网络</td>
+	</tr>
+	<tr>
+		<td width="100">600831</td>
+		<td width="100">广电网络</td>
+		<td width="100">600832</td>
+		<td width="100">东方明珠</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600833</td>
+		<td width="100">第一医药</td>
+		<td width="100">600834</td>
+		<td width="100">申通地铁</td>
+	</tr>
+	<tr>
+		<td width="100">600834</td>
+		<td width="100">申通地铁</td>
+		<td width="100">600835</td>
+		<td width="100">上菱电器</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600836</td>
+		<td width="100">界龙实业</td>
+		<td width="100">600837</td>
+		<td width="100">都市股份</td>
+	</tr>
+	<tr>
+		<td width="100">600837</td>
+		<td width="100">都市股份</td>
+		<td width="100">600838</td>
+		<td width="100">上海九百</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600839</td>
+		<td width="100">四川长虹</td>
+		<td width="100">600840</td>
+		<td width="100">新湖创业</td>
+	</tr>
+	<tr>
+		<td width="100">600840</td>
+		<td width="100">新湖创业</td>
+		<td width="100">600841</td>
+		<td width="100">上柴股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600842</td>
+		<td width="100">ST中西</td>
+		<td width="100">600843</td>
+		<td width="100">上工股份</td>
+	</tr>
+	<tr>
+		<td width="100">600843</td>
+		<td width="100">上工股份</td>
+		<td width="100">600844</td>
+		<td width="100">大盈股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600845</td>
+		<td width="100">宝信软件</td>
+		<td width="100">600846</td>
+		<td width="100">同济科技</td>
+	</tr>
+	<tr>
+		<td width="100">600846</td>
+		<td width="100">同济科技</td>
+		<td width="100">600847</td>
+		<td width="100">ST渝万里</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600848</td>
+		<td width="100">ST自仪</td>
+		<td width="100">600849</td>
+		<td width="100">上海医药</td>
+	</tr>
+	<tr>
+		<td width="100">600849</td>
+		<td width="100">上海医药</td>
+		<td width="100">600850</td>
+		<td width="100">华东电脑</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600851</td>
+		<td width="100">海欣股份</td>
+		<td width="100">600852</td>
+		<td width="100">中川国际</td>
+	</tr>
+	<tr>
+		<td width="100">600852</td>
+		<td width="100">中川国际</td>
+		<td width="100">600853</td>
+		<td width="100">龙建股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600854</td>
+		<td width="100">春兰股份</td>
+		<td width="100">600855</td>
+		<td width="100">航天长峰</td>
+	</tr>
+	<tr>
+		<td width="100">600855</td>
+		<td width="100">航天长峰</td>
+		<td width="100">600856</td>
+		<td width="100">长百集团</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600857</td>
+		<td width="100">工大首创</td>
+		<td width="100">600858</td>
+		<td width="100">渤海集团</td>
+	</tr>
+	<tr>
+		<td width="100">600858</td>
+		<td width="100">渤海集团</td>
+		<td width="100">600859</td>
+		<td width="100">王府井</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600860</td>
+		<td width="100">北人股份</td>
+		<td width="100">600861</td>
+		<td width="100">北京城乡</td>
+	</tr>
+	<tr>
+		<td width="100">600861</td>
+		<td width="100">北京城乡</td>
+		<td width="100">600862</td>
+		<td width="100">ST纵横</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600863</td>
+		<td width="100">内蒙华电</td>
+		<td width="100">600864</td>
+		<td width="100">岁宝热电</td>
+	</tr>
+	<tr>
+		<td width="100">600864</td>
+		<td width="100">岁宝热电</td>
+		<td width="100">600865</td>
+		<td width="100">百大集团</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600866</td>
+		<td width="100">星湖科技</td>
+		<td width="100">600867</td>
+		<td width="100">通化东宝</td>
+	</tr>
+	<tr>
+		<td width="100">600867</td>
+		<td width="100">通化东宝</td>
+		<td width="100">600868</td>
+		<td width="100">梅雁股份</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600869</td>
+		<td width="100">青海三普</td>
+		<td width="100">600870</td>
+		<td width="100">厦华电子</td>
+	</tr>
+	<tr>
+		<td width="100">600870</td>
+		<td width="100">厦华电子</td>
+		<td width="100">600871</td>
+		<td width="100">仪征化纤</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600872</td>
+		<td width="100">中炬高新</td>
+		<td width="100">600873</td>
+		<td width="100">ST藏明珠</td>
+	</tr>
+	<tr>
+		<td width="100">600873</td>
+		<td width="100">ST藏明珠</td>
+		<td width="100">600874</td>
+		<td width="100">创业环保</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600875</td>
+		<td width="100">东方电机</td>
+		<td width="100">600876</td>
+		<td width="100">洛阳玻璃</td>
+	</tr>
+	<tr>
+		<td width="100">600876</td>
+		<td width="100">洛阳玻璃</td>
+		<td width="100">600877</td>
+		<td width="100">中国嘉陵</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600878</td>
+		<td width="100">ST北科</td>
+		<td width="100">600879</td>
+		<td width="100">火箭股份</td>
+	</tr>
+	<tr>
+		<td width="100">600879</td>
+		<td width="100">火箭股份</td>
+		<td width="100">600880</td>
+		<td width="100">博瑞传播</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600881</td>
+		<td width="100">亚泰集团</td>
+		<td width="100">600882</td>
+		<td width="100">大成股份</td>
+	</tr>
+	<tr>
+		<td width="100">600882</td>
+		<td width="100">大成股份</td>
+		<td width="100">600883</td>
+		<td width="100">富邦科技</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600884</td>
+		<td width="100">杉杉股份</td>
+		<td width="100">600885</td>
+		<td width="100">力诺工业</td>
+	</tr>
+	<tr>
+		<td width="100">600885</td>
+		<td width="100">力诺工业</td>
+		<td width="100">600886</td>
+		<td width="100">ST华靖</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600887</td>
+		<td width="100">伊利股份</td>
+		<td width="100">600888</td>
+		<td width="100">新疆众和</td>
+	</tr>
+	<tr>
+		<td width="100">600888</td>
+		<td width="100">新疆众和</td>
+		<td width="100">600889</td>
+		<td width="100">南京化纤</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600890</td>
+		<td width="100">中房股份</td>
+		<td width="100">600891</td>
+		<td width="100">秋林集团</td>
+	</tr>
+	<tr>
+		<td width="100">600891</td>
+		<td width="100">秋林集团</td>
+		<td width="100">600892</td>
+		<td width="100">湖大科教</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600893</td>
+		<td width="100">吉发股份</td>
+		<td width="100">600894</td>
+		<td width="100">广钢股份</td>
+	</tr>
+	<tr>
+		<td width="100">600894</td>
+		<td width="100">广钢股份</td>
+		<td width="100">600895</td>
+		<td width="100">张江高科</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600896</td>
+		<td width="100">中海海盛</td>
+		<td width="100">600897</td>
+		<td width="100">厦门机场</td>
+	</tr>
+	<tr>
+		<td width="100">600897</td>
+		<td width="100">厦门机场</td>
+		<td width="100">600898</td>
+		<td width="100">PT郑百文</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">600899</td>
+		<td width="100">信联股份</td>
+		<td width="100">900901</td>
+		<td width="100">上电Ｂ股</td>
+	</tr>
+	<tr>
+		<td width="100">900901</td>
+		<td width="100">上电Ｂ股</td>
+		<td width="100">900902</td>
+		<td width="100">二纺B股</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">900903</td>
+		<td width="100">大众B股</td>
+		<td width="100">900904</td>
+		<td width="100">永生B股</td>
+	</tr>
+	<tr>
+		<td width="100">900904</td>
+		<td width="100">永生B股</td>
+		<td width="100">900905</td>
+		<td width="100">中铅B股</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">900906</td>
+		<td width="100">中纺B股</td>
+		<td width="100">900907</td>
+		<td width="100">发展B股</td>
+	</tr>
+	<tr>
+		<td width="100">900907</td>
+		<td width="100">发展B股</td>
+		<td width="100">900908</td>
+		<td width="100">氯碱B股</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">900909</td>
+		<td width="100">轮胎B股</td>
+		<td width="100">900910</td>
+		<td width="100">海立B股</td>
+	</tr>
+	<tr>
+		<td width="100">900910</td>
+		<td width="100">海立B股</td>
+		<td width="100">900911</td>
+		<td width="100">金桥B股</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">900912</td>
+		<td width="100">外高B股</td>
+		<td width="100">900913</td>
+		<td width="100">联华B股</td>
+	</tr>
+	<tr>
+		<td width="100">900913</td>
+		<td width="100">联华B股</td>
+		<td width="100">900914</td>
+		<td width="100">新锦B股</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">900915</td>
+		<td width="100">ST永久B</td>
+		<td width="100">900916</td>
+		<td width="100">凤凰B股</td>
+	</tr>
+	<tr>
+		<td width="100">900916</td>
+		<td width="100">凤凰B股</td>
+		<td width="100">900917</td>
+		<td width="100">海欣B股</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">900918</td>
+		<td width="100">耀皮B股</td>
+		<td width="100">900919</td>
+		<td width="100">ST大江B</td>
+	</tr>
+	<tr>
+		<td width="100">900919</td>
+		<td width="100">ST大江B</td>
+		<td width="100">900920</td>
+		<td width="100">上柴B股</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">900921</td>
+		<td width="100">大盈B股</td>
+		<td width="100">900922</td>
+		<td width="100">三毛B股</td>
+	</tr>
+	<tr>
+		<td width="100">900922</td>
+		<td width="100">三毛B股</td>
+		<td width="100">900923</td>
+		<td width="100">友谊B股</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">900924</td>
+		<td width="100">上工B股</td>
+		<td width="100">900925</td>
+		<td width="100">上菱B股</td>
+	</tr>
+	<tr>
+		<td width="100">900925</td>
+		<td width="100">上菱B股</td>
+		<td width="100">900926</td>
+		<td width="100">宝信B</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">900927</td>
+		<td width="100">物贸B股</td>
+		<td width="100">900928</td>
+		<td width="100">自仪B股</td>
+	</tr>
+	<tr>
+		<td width="100">900928</td>
+		<td width="100">自仪B股</td>
+		<td width="100">900929</td>
+		<td width="100">国旅Ｂ股</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">900930</td>
+		<td width="100">邮通B股</td>
+		<td width="100">900931</td>
+		<td width="100">PT水仙B</td>
+	</tr>
+	<tr>
+		<td width="100">900931</td>
+		<td width="100">PT水仙B</td>
+		<td width="100">900932</td>
+		<td width="100">陆家B股</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">900933</td>
+		<td width="100">华新B股</td>
+		<td width="100">900934</td>
+		<td width="100">新亚B股</td>
+	</tr>
+	<tr>
+		<td width="100">900934</td>
+		<td width="100">新亚B股</td>
+		<td width="100">900935</td>
+		<td width="100">阳晨B股</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">900936</td>
+		<td width="100">鄂绒Ｂ股</td>
+		<td width="100">900937</td>
+		<td width="100">龙电B股</td>
+	</tr>
+	<tr>
+		<td width="100">900937</td>
+		<td width="100">龙电B股</td>
+		<td width="100">900938</td>
+		<td width="100">ST天海B</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">900939</td>
+		<td width="100">汇丽Ｂ股</td>
+		<td width="100">900940</td>
+		<td width="100">华源B股</td>
+	</tr>
+	<tr>
+		<td width="100">900940</td>
+		<td width="100">华源B股</td>
+		<td width="100">900941</td>
+		<td width="100">东信B股</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">900942</td>
+		<td width="100">黄山B股</td>
+		<td width="100">900943</td>
+		<td width="100">开开Ｂ股</td>
+	</tr>
+	<tr>
+		<td width="100">900943</td>
+		<td width="100">开开Ｂ股</td>
+		<td width="100">900945</td>
+		<td width="100">海航Ｂ股</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">900946</td>
+		<td width="100">ST轻骑B</td>
+		<td width="100">900947</td>
+		<td width="100">振华Ｂ股</td>
+	</tr>
+	<tr>
+		<td width="100">900947</td>
+		<td width="100">振华Ｂ股</td>
+		<td width="100">900948</td>
+		<td width="100">伊煤Ｂ股</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">900949</td>
+		<td width="100">东电Ｂ股</td>
+		<td width="100">900950</td>
+		<td width="100">新城B股</td>
+	</tr>
+	<tr>
+		<td width="100">900950</td>
+		<td width="100">新城B股</td>
+		<td width="100">900951</td>
+		<td width="100">大化B股</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">900952</td>
+		<td width="100">ST锦港B</td>
+		<td width="100">900953</td>
+		<td width="100">凯马B股</td>
+	</tr>
+	<tr>
+		<td width="100">900953</td>
+		<td width="100">凯马B股</td>
+		<td width="100">900955</td>
+		<td width="100">茉织华B</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">900956</td>
+		<td width="100">东贝B股</td>
+		<td width="100">900957</td>
+		<td width="100">凌云B股</td>
+	</tr>
+	<tr>
+		<td width="100">900957</td>
+		<td width="100">凌云B股</td>
+		<td width="100">999001</td>
+		<td width="100">华安创新</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">999002</td>
+		<td width="100">南方稳健</td>
+		<td width="100">999003</td>
+		<td width="100">华夏成长</td>
+	</tr>
+	<tr>
+		<td width="100">999003</td>
+		<td width="100">华夏成长</td>
+		<td width="100">999004</td>
+		<td width="100">金鹰增长</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">999005</td>
+		<td width="100">鹏华成长</td>
+		<td width="100">999006</td>
+		<td width="100">富国动态</td>
+	</tr>
+	<tr>
+		<td width="100">999006</td>
+		<td width="100">富国动态</td>
+		<td width="100">999007</td>
+		<td width="100">方达增长</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">999008</td>
+		<td width="100">新蓝筹</td>
+		<td width="100">999009</td>
+		<td width="100">南方宝元</td>
+	</tr>
+	<tr>
+		<td width="100">999009</td>
+		<td width="100">南方宝元</td>
+		<td width="100">999010</td>
+		<td width="100">长盛成长</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">999011</td>
+		<td width="100">博时价值</td>
+		<td width="100">999012</td>
+		<td width="100">宝盈鸿利</td>
+	</tr>
+	<tr>
+		<td width="100">999012</td>
+		<td width="100">宝盈鸿利</td>
+		<td width="100">999013</td>
+		<td width="100">华夏债券</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">999014</td>
+		<td width="100">大成价值</td>
+		<td width="100">999015</td>
+		<td width="100">嘉实成长</td>
+	</tr>
+	<tr>
+		<td width="100">999015</td>
+		<td width="100">嘉实成长</td>
+		<td width="100">999016</td>
+		<td width="100">银华优势</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">999017</td>
+		<td width="100">华安180</td>
+		<td width="100">999018</td>
+		<td width="100">天同180</td>
+	</tr>
+	<tr>
+		<td width="100">999018</td>
+		<td width="100">天同180</td>
+		<td width="100">999019</td>
+		<td width="100">融华债券</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">999020</td>
+		<td width="100">招商债券</td>
+		<td width="100">999021</td>
+		<td width="100">招商平衡</td>
+	</tr>
+	<tr>
+		<td width="100">999021</td>
+		<td width="100">招商平衡</td>
+		<td width="100">999022</td>
+		<td width="100">招商股票</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">999023</td>
+		<td width="100">合丰成长</td>
+		<td width="100">999024</td>
+		<td width="100">合丰周期</td>
+	</tr>
+	<tr>
+		<td width="100">999024</td>
+		<td width="100">合丰周期</td>
+		<td width="100">999025</td>
+		<td width="100">合丰稳定</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">999026</td>
+		<td width="100">大成债券</td>
+		<td width="100">999027</td>
+		<td width="100">金鹰优选</td>
+	</tr>
+	<tr>
+		<td width="100">999027</td>
+		<td width="100">金鹰优选</td>
+		<td width="100">999028</td>
+		<td width="100">南方避险</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">999029</td>
+		<td width="100">普天债券</td>
+		<td width="100">999030</td>
+		<td width="100">普天收益</td>
+	</tr>
+	<tr>
+		<td width="100">999030</td>
+		<td width="100">普天收益</td>
+		<td width="100">999031</td>
+		<td width="100">嘉实稳健</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">999032</td>
+		<td width="100">嘉实增长</td>
+		<td width="100">999033</td>
+		<td width="100">嘉实债券</td>
+	</tr>
+	<tr>
+		<td width="100">999033</td>
+		<td width="100">嘉实债券</td>
+		<td width="100">999034</td>
+		<td width="100">华宝消费品</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">999035</td>
+		<td width="100">华宝配置</td>
+		<td width="100">999036</td>
+		<td width="100">华宝债券</td>
+	</tr>
+	<tr>
+		<td width="100">999036</td>
+		<td width="100">华宝债券</td>
+		<td width="100">999037</td>
+		<td width="100">银河稳健</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">999038</td>
+		<td width="100">银河收益</td>
+		<td width="100">999039</td>
+		<td width="100">德盛稳健</td>
+	</tr>
+	<tr>
+		<td width="100">999039</td>
+		<td width="100">德盛稳健</td>
+		<td width="100">999040</td>
+		<td width="100">博时裕富</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">999041</td>
+		<td width="100">海富通精选</td>
+		<td width="100">999042</td>
+		<td width="100">华夏回报</td>
+	</tr>
+	<tr>
+		<td width="100">999042</td>
+		<td width="100">华夏回报</td>
+		<td width="100">999043</td>
+		<td width="100">长盛债券</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">999044</td>
+		<td width="100">融通债券</td>
+		<td width="100">999045</td>
+		<td width="100">融通深100</td>
+	</tr>
+	<tr>
+		<td width="100">999045</td>
+		<td width="100">融通深100</td>
+		<td width="100">999046</td>
+		<td width="100">融通成长</td>
+	</tr>
+	<tr bgcolor="eff0f8">
+		<td width="100">999047</td>
+		<td width="100">长城平衡</td>
+		<td width="100">999048</td>
+		<td width="100">景顺股票</td>
+	</tr>
+	<tr>
+		<td width="100">999048</td>
+		<td width="100">景顺股票</td>
+	</tr>
+</html>
