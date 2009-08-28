@@ -25,104 +25,93 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
+
 /**
- * TODO Comment of StoreData
- * 
  * @author frank.lizh
- * 
  */
 public class StoreDataO {
+    private static final Log logger = LogFactory.getLog(StoreDataO.class);
 
-	private StoreDataO() {
+    private StoreDataO() {
+    }
 
-	}
+    private static Statement  stmt;
+    private static Connection con;
 
-	private static Statement stmt;
+    static {
+        try {
+            Class.forName("com.mysql.jdbc.Driver");
+            // 建立连接
+            con = DriverManager.getConnection(
+                    "jdbc:mysql://localhost:3306/stock?useUnicode=true&characterEncoding=UTF-8",
+                    "store", "store");
 
-	private static Connection con;
+            stmt = con.createStatement();
+        } catch (Exception e) {
+            throw new ExceptionInInitializerError(e);
+        }
+    }
 
-	static {
-		try {
-			Class.forName("com.mysql.jdbc.Driver");
-			// 建立连接
-			con = DriverManager.getConnection(
-					"jdbc:mysql://localhost:3306/stock?useUnicode=true&characterEncoding=UTF-8", "store", "store");
-			// 创建状态
-			// String sql =
-			// "insert into stock_data(code,name,trade_date,open_price,high_price,low_price,close_price,volume) values(?,?,?,?,?,?,?,?)"
-			// ;
-			stmt = con.createStatement();
+    public static void executeSave(String sql) {
+        try {
+            stmt.executeUpdate(sql);
+        } catch (Exception e) {
+            logger.error("SQL Exception: ", e);
+        }
 
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+    }
 
-	}
+    public static void closeConnection() {
+        try {
+            con.close();
+        } catch (SQLException e) {
+            logger.error("Exception when close connection: ", e);
+        }
+    }
 
-	public static void executeSave(String sql) {
+    public static List queryCodeList() {
+        List list = new ArrayList();
+        ResultSet rs;
+        try {
+            rs = stmt.executeQuery(" select code from stock_data group by code");
 
-		try {
+            while (rs.next()) {
+                list.add(rs.getString(1));
+            }
 
-			stmt.executeUpdate(sql);
+        } catch (SQLException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+        return list;
+    }
 
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+    public static List queryRecord(String sql) {
+        // 执行SQL语句，返回结果集
+        List list = new ArrayList();
+        ResultSet rs;
+        try {
+            rs = stmt.executeQuery(sql);
 
-	}
+            while (rs.next()) {
+                Map map = new HashMap();
+                map.put("trade_date", rs.getDate("trade_date"));
+                map.put("open_price", rs.getFloat("open_price"));
+                map.put("high_price", rs.getFloat("high_price"));
+                map.put("low_price", rs.getFloat("low_price"));
+                map.put("close_price", rs.getFloat("close_price"));
+                map.put("volume", rs.getFloat("volume"));
+                list.add(map);
+            }
 
-	public static void closeConnection() {
-		try {
-			con.close();
-		} catch (SQLException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-	}
+        } catch (SQLException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+        return list;
 
-	public static List queryCodeList(){
-		List list = new ArrayList();
-		ResultSet rs;
-		try {
-			rs = stmt.executeQuery(" select code from stock_data group by code");
-			
-			while (rs.next()) {
-				list.add(rs.getString(1));
-			}
-
-		} catch (SQLException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		return list;
-	}
-	public static List queryRecord(String sql) {
-		// 执行SQL语句，返回结果集
-		List list = new ArrayList();
-		ResultSet rs;
-		try {
-			rs = stmt.executeQuery(sql);
-			
-			while (rs.next()) {
-				Map map = new HashMap();
-				map.put("trade_date", rs.getDate("trade_date"));
-				map.put("open_price", rs.getFloat("open_price"));
-				map.put("high_price", rs.getFloat("high_price"));
-				map.put("low_price", rs.getFloat("low_price"));
-				map.put("close_price", rs.getFloat("close_price"));
-				map.put("volume", rs.getFloat("volume"));
-				list.add(map);
-			}
-
-		} catch (SQLException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		return list;
-
-	}
-	
+    }
 
 }
