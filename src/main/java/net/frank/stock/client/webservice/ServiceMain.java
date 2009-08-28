@@ -27,28 +27,19 @@ import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
 /**
- * TODO Comment of ServiceMain
  * @author frank.lizh
- *
  */
 public class ServiceMain {
-    private static final Log log = LogFactory.getLog(ServiceMain.class);
-    private static final String STOCK_SERVICE_ENDPOINT = "http://www.webxml.com.cn/WebServices/ChinaStockWebService.asmx?wsdl";
+    private static final Log    log                    = LogFactory.getLog(ServiceMain.class);
 
-    public static void main(String[] args) {
-    	ServiceMain tester = new ServiceMain();
-        // tester.callSayHello();
-        tester.callSayHelloToPerson();
-    }
+    private static final String STOCK_SERVICE_ENDPOINT = "http://www.webxml.com.cn/WebServices/ChinaStockWebService.asmx?wsdl";
 
     public void callSayHello() {
         try {
             Service service = new Service();
             Call call = (Call) service.createCall();
-            call.setTargetEndpointAddress(new java.net.URL(
-                    STOCK_SERVICE_ENDPOINT));
-            call.setOperationName(new QName("http://www.webxml.com.cn/",
-                    "sayHello"));
+            call.setTargetEndpointAddress(new java.net.URL(STOCK_SERVICE_ENDPOINT));
+            call.setOperationName(new QName("http://www.webxml.com.cn/", "sayHello"));
             call.setReturnType(org.apache.axis.Constants.XSD_STRING);
             try {
                 String ret = (String) call.invoke(new Object[] {});
@@ -68,16 +59,17 @@ public class ServiceMain {
     public void callSayHelloToPerson() {
         try {
             Service service = new Service();
+            
             Call call = (Call) service.createCall();
-            call.setTargetEndpointAddress(new java.net.URL(
-                    STOCK_SERVICE_ENDPOINT));
-            call.setOperationName(new QName("http://www.webxml.com.cn/WebServices/ChinaStockWebService.asmx",
+            call.setTargetEndpointAddress(new java.net.URL(STOCK_SERVICE_ENDPOINT));
+            call.setOperationName(new QName(
+                    "http://www.webxml.com.cn/WebServices/ChinaStockWebService.asmx",
                     "getStockInfoByCode"));
             call.addParameter("getStockInfoByCodeSoapIn", org.apache.axis.Constants.XSD_STRING,
                     javax.xml.rpc.ParameterMode.IN);
             call.setReturnType(org.apache.axis.Constants.XSD_STRING);
             call.setUseSOAPAction(true);
-           // call.setSOAPActionURI("http://www.webxml.com.cn/WebServices/ChinaStockWebService.asmx");
+            // call.setSOAPActionURI("http://www.webxml.com.cn/WebServices/ChinaStockWebService.asmx");
 
             try {
                 String ret = (String) call.invoke(new Object[] { "sh000001" });
@@ -93,5 +85,11 @@ public class ServiceMain {
             e.printStackTrace();
         }
         log.error("call sayHello service error!");
+    }
+
+    public static void main(String[] args) {
+        ServiceMain tester = new ServiceMain();
+        // tester.callSayHello();
+        tester.callSayHelloToPerson();
     }
 }
