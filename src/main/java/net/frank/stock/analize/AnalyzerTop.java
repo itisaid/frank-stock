@@ -22,70 +22,61 @@ import java.util.Queue;
 import java.util.concurrent.ArrayBlockingQueue;
 
 /**
- * TODO Comment of AnalyzerTop
  * @author frank.lizh
- *
  */
 public class AnalyzerTop {
+    public static void analize(List list, List result, int cap) {
+        Float success = 0F;
+        Float fail = 0F;
 
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+        Queue q = new ArrayBlockingQueue(cap);
+        int max = 0;
+        for (int i = 0; i < cap; i++) {
+            int temp = Integer.valueOf(((Map) list.get(i)).get("volume").toString());
+            q.add(temp);
 
-	}
+            if (temp > max) {
+                max = temp;
+            }
+        }
+        for (int i = cap; i < (list.size() - 1); i++) {
+            int cur = Integer.valueOf(((Map) list.get(i)).get("volume").toString());
+            if (cur > max) {
+                float c2 = Float.valueOf(((Map) list.get(i)).get("close_price").toString());
+                float c3 = Float.valueOf(((Map) list.get(i + 1)).get("close_price").toString());
 
-	public static void analize(List list,List result,int cap) {
-		Float success = 0F;
-		Float fail = 0F;
+                if (c3 > c2) {
+                    success++;
+                }
+                if (c3 < c2) {
+                    fail++;
+                }
+            }
 
-		Queue q = new ArrayBlockingQueue(cap);
-		int max=0;
-		for(int i =0;i<cap;i++){
-			int temp = Integer.valueOf(((Map)list.get(i)).get("volume").toString());
-			q.add(temp);
-			
-			if(temp>max){
-				max=temp;
-			}
-		}
-		for (int i = cap; i < (list.size()-1); i++) {
-			int cur = Integer.valueOf(((Map)list.get(i)).get("volume").toString());
-			if(cur>max){
-				float c2 = Float.valueOf(((Map) list.get(i)).get("close_price")
-						.toString());
-				float c3 = Float.valueOf(((Map) list.get(i + 1)).get("close_price")
-						.toString());
+            q.remove();
+            q.add(list.get(i));
 
-				if (c3 > c2) {
-					success++;
-				}
-				if (c3 < c2) {
-					fail++;
-				}
-			}
-			
-			
-			q.remove();
-			q.add(list.get(i));
-			
-			
-			Iterator it = q.iterator();
-			max = 0;
-			while(it.hasNext()){
-				int temp = (Integer)(it.next());
-				if(temp>max){
-					max = temp;
-				}
-			}
+            Iterator it = q.iterator();
+            max = 0;
+            while (it.hasNext()) {
+                int temp = (Integer) (it.next());
+                if (temp > max) {
+                    max = temp;
+                }
+            }
 
+        }
+        System.out.println(" s-" + success + " f-" + fail);
+        if (fail != 0) {
+            result.add(success / fail);
+            System.out.println(success / fail);
+        }
+    }
 
-		}
-		System.out.println(" s-"+success+" f-"+fail);
-		if (fail != 0) {
-			result.add(success / fail);
-			System.out.println(success / fail);
-		}
-	}
+    /**
+     * @param args
+     */
+    public static void main(String[] args) {
+
+    }
 }
