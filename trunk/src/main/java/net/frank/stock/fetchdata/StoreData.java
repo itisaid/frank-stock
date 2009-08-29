@@ -38,12 +38,13 @@ public class StoreData {
 
     public StoreData() throws ClassNotFoundException, SQLException, IOException {
         Properties properties = new Properties();
-        properties.load(StoreData.class.getResourceAsStream("jdbc.properties"));
+        properties.load(StoreData.class.getResourceAsStream("/jdbc.properties"));
 
         Class.forName(properties.getProperty("jdbc.driverClassName"));
         // 建立连接
         con = DriverManager.getConnection(properties.getProperty("jdbc.url"), properties
                 .getProperty("jdbc.username"), properties.getProperty("jdbc.password"));
+
         // 创建状态
         String sql = "insert into stock_data(code, name, trade_date, open_price, high_price, low_price, close_price, volume) "
                 + " values(?, ?, ?, ?, ?, ?, ?, ?)";

@@ -13,8 +13,9 @@
  * accordance with the terms of the license agreement you entered into
  * with Alibaba.com.
  */
-package net.frank.stock.data.store;
+package net.frank.stock.analize;
 
+import java.io.IOException;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
@@ -24,6 +25,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Properties;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
@@ -31,39 +33,25 @@ import org.apache.commons.logging.LogFactory;
 /**
  * @author frank.lizh
  */
-public class StoreDataO {
-    private static final Log logger = LogFactory.getLog(StoreDataO.class);
+public class ReadData {
+    private static final Log logger = LogFactory.getLog(ReadData.class);
 
-    private StoreDataO() {
+    private final Statement  stmt;
+    private final Connection con;
+
+    public ReadData() throws ClassNotFoundException, SQLException, IOException {
+        Properties properties = new Properties();
+        properties.load(ReadData.class.getResourceAsStream("/jdbc.properties"));
+
+        Class.forName(properties.getProperty("jdbc.driverClassName"));
+        // 建立连接
+        con = DriverManager.getConnection(properties.getProperty("jdbc.url"), properties
+                .getProperty("jdbc.username"), properties.getProperty("jdbc.password"));
+
+        stmt = con.createStatement();
     }
 
-    private static Statement  stmt;
-    private static Connection con;
-
-    static {
-        try {
-            Class.forName("com.mysql.jdbc.Driver");
-            // 建立连接
-            con = DriverManager.getConnection(
-                    "jdbc:mysql://localhost:3306/stock?useUnicode=true&characterEncoding=UTF-8",
-                    "store", "store");
-
-            stmt = con.createStatement();
-        } catch (Exception e) {
-            throw new ExceptionInInitializerError(e);
-        }
-    }
-
-    public static void executeSave(String sql) {
-        try {
-            stmt.executeUpdate(sql);
-        } catch (Exception e) {
-            logger.error("SQL Exception: ", e);
-        }
-
-    }
-
-    public static void closeConnection() {
+    public void closeConnection() {
         try {
             con.close();
         } catch (SQLException e) {
@@ -71,8 +59,8 @@ public class StoreDataO {
         }
     }
 
-    public static List queryCodeList() {
-        List list = new ArrayList();
+    public List<String> queryCodeList() {
+        List<String> list = new ArrayList<String>();
         ResultSet rs;
         try {
             rs = stmt.executeQuery(" select code from stock_data group by code");
@@ -82,21 +70,20 @@ public class StoreDataO {
             }
 
         } catch (SQLException e) {
-            // TODO Auto-generated catch block
-            e.printStackTrace();
+            logger.error("Exception when queryCodeList: ", e);
         }
         return list;
     }
 
-    public static List queryRecord(String sql) {
+    public List<Map<String, Object>> queryRecord(String sql) {
         // 执行SQL语句，返回结果集
-        List list = new ArrayList();
+        List<Map<String, Object>> list = new ArrayList<Map<String, Object>>();
         ResultSet rs;
         try {
             rs = stmt.executeQuery(sql);
 
             while (rs.next()) {
-                Map map = new HashMap();
+                Map<String, Object> map = new HashMap<String, Object>();
                 map.put("trade_date", rs.getDate("trade_date"));
                 map.put("open_price", rs.getFloat("open_price"));
                 map.put("high_price", rs.getFloat("high_price"));
@@ -107,11 +94,8 @@ public class StoreDataO {
             }
 
         } catch (SQLException e) {
-            // TODO Auto-generated catch block
-            e.printStackTrace();
+            logger.error("Exception when queryRecord: ", e);
         }
         return list;
-
     }
-
 }

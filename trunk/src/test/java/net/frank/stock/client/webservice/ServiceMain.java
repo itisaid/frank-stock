@@ -59,7 +59,7 @@ public class ServiceMain {
     public void callSayHelloToPerson() {
         try {
             Service service = new Service();
-            
+
             Call call = (Call) service.createCall();
             call.setTargetEndpointAddress(new java.net.URL(STOCK_SERVICE_ENDPOINT));
             call.setOperationName(new QName(

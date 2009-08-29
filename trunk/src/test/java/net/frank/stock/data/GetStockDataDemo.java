@@ -33,7 +33,8 @@ public class GetStockDataDemo {
 
     public static void main(String[] args) throws Exception {
         // 创建GET方法的实例
-        GetMethod getMethod = new GetMethod("http://table.finance.yahoo.com/table.csv?s=ibm&d=6&e=22&f=2009&g=d&a=1&b=2&c=2008&ignore=.csv");
+        GetMethod getMethod = new GetMethod(
+                "http://table.finance.yahoo.com/table.csv?s=ibm&d=6&e=22&f=2009&g=d&a=1&b=2&c=2008&ignore=.csv");
 
         try {
             // 执行getMethod
