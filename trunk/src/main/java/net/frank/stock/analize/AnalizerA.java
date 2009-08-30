@@ -3,15 +3,6 @@
  * 
  * File Created at 2009-1-15
  * $Id$
- * 
- * Copyright 2008 Alibaba.com Croporation Limited.
- * All rights reserved.
- *
- * This software is the confidential and proprietary information of
- * Alibaba Company. ("Confidential Information").  You shall not
- * disclose such Confidential Information and shall use it only in
- * accordance with the terms of the license agreement you entered into
- * with Alibaba.com.
  */
 package net.frank.stock.analize;
 
@@ -51,15 +42,18 @@ public class AnalizerA {
         int len = codeList.size();
 
         for (int i = 0; i < codeList.size(); i++) {
+            logger.info("Start to analize " + codeList.get(i) + " (" + i + "/" + codeList.size()
+                    + ")");
+
             String sql = "select trade_date, open_price, high_price, low_price, close_price, volume"
                     + " from stock_data" + " where code = '" + (codeList.get(i)).toString() + "'";
-            List<Map<String, Object>> records = readData.queryRecord(sql);
+            List<Map<String, Object>> recordList = readData.queryRecord(sql);
 
-            logger.info(codeList.get(i).toString() + ":");
+            logger.info(codeList.get(i) + " has " + recordList.size() + " records.");
 
             for (int k = 3; k < 10; k++) {
-                analizeTopD(records, resultD[k - 3], k);
-                analizeTopU(records, resultU[k - 3], k);
+                analizeTopD(recordList, resultD[k - 3], k);
+                analizeTopU(recordList, resultU[k - 3], k);
             }
         }
 
@@ -173,7 +167,7 @@ public class AnalizerA {
     public static void analizeDP(List<Map<String, Object>> records, List<Float> result) {
         Float successP = 0F;
         Float failP = 0F;
-        for (int i = 1; i < (records.size() - 1); i++) {
+        for (int i = 1; i < records.size() - 1; i++) {
             float c1 = Float.valueOf((records.get(i - 1)).get("close_price").toString());
             float c2 = Float.valueOf((records.get(i)).get("close_price").toString());
             float c3 = Float.valueOf((records.get(i + 1)).get("close_price").toString());
@@ -198,26 +192,27 @@ public class AnalizerA {
         }
     }
 
-    public static void analizeTopD(List<Map<String, Object>> records, List<Float> result, int cap) {
+    public static void analizeTopD(List<Map<String, Object>> recordList, List<Float> result, int cap) {
         Float success = 0F;
         Float fail = 0F;
 
-        Queue<Float> q = new ArrayBlockingQueue<Float>(cap);
+        Queue<Float> queue = new ArrayBlockingQueue<Float>(cap);
         Float max = 0F;
         for (int i = 0; i < cap; i++) {
-            Float temp = Float.valueOf(records.get(i).get("volume").toString());
-            q.add(temp);
+            Float temp = (Float) recordList.get(i).get("volume");
+            queue.add(temp);
 
             if (temp > max) {
                 max = temp;
             }
         }
-        for (int i = cap; i < (records.size() - 1); i++) {
-            Float cur = Float.valueOf(records.get(i).get("volume").toString());
+
+        for (int i = cap; i < recordList.size() - 1; i++) {
+            Float cur = (Float) recordList.get(i).get("volume");
             if (cur > max) {
-                float c1 = Float.valueOf(records.get(i - 1).get("close_price").toString());
-                float c2 = Float.valueOf(records.get(i).get("close_price").toString());
-                float c3 = Float.valueOf(records.get(i + 1).get("close_price").toString());
+                float c1 = (Float) recordList.get(i - 1).get("close_price");
+                float c2 = (Float) recordList.get(i).get("close_price");
+                float c3 = (Float) recordList.get(i + 1).get("close_price");
                 if (c2 < c1) {
                     if (c3 > c2) {
                         success++;
@@ -227,10 +222,10 @@ public class AnalizerA {
                     }
                 }
             }
-            q.remove();
-            q.add(cur);
+            queue.remove();
+            queue.add(cur);
 
-            Iterator<Float> it = q.iterator();
+            Iterator<Float> it = queue.iterator();
             max = 0f;
             while (it.hasNext()) {
                 Float temp = (it.next());
@@ -238,35 +233,36 @@ public class AnalizerA {
                     max = temp;
                 }
             }
-
         }
-        // System.out.println(" s-" + success + " f-" + fail);
+        logger.info(" s-" + success + " f-" + fail);
+
         if (fail != 0) {
             result.add(success / fail);
-            // System.out.println("TOPD£º " + success / fail);
+
+            logger.info("TOPD£º " + success / fail);
         }
     }
 
-    public static void analizeTopU(List<Map<String, Object>> records, List<Float> result, int cap) {
+    public static void analizeTopU(List<Map<String, Object>> recordList, List<Float> result, int cap) {
         Float success = 0F;
         Float fail = 0F;
 
-        Queue<Float> q = new ArrayBlockingQueue<Float>(cap);
+        Queue<Float> queue = new ArrayBlockingQueue<Float>(cap);
         Float max = 0F;
         for (int i = 0; i < cap; i++) {
-            Float temp = Float.valueOf((records.get(i)).get("volume").toString());
-            q.add(temp);
+            Float temp = (Float) recordList.get(i).get("volume");
+            queue.add(temp);
 
             if (temp > max) {
                 max = temp;
             }
         }
-        for (int i = cap; i < (records.size() - 1); i++) {
-            Float cur = Float.valueOf(records.get(i).get("volume").toString());
+        for (int i = cap; i < (recordList.size() - 1); i++) {
+            Float cur = (Float) recordList.get(i).get("volume");
             if (cur > max) {
-                float c1 = Float.valueOf(records.get(i - 1).get("close_price").toString());
-                float c2 = Float.valueOf(records.get(i).get("close_price").toString());
-                float c3 = Float.valueOf(records.get(i + 1).get("close_price").toString());
+                float c1 = (Float) recordList.get(i - 1).get("close_price");
+                float c2 = (Float) recordList.get(i).get("close_price");
+                float c3 = (Float) recordList.get(i + 1).get("close_price");
                 if (c2 > c1) {
                     if (c3 > c2) {
                         success++;
@@ -277,10 +273,10 @@ public class AnalizerA {
                 }
             }
 
-            q.remove();
-            q.add(cur);
+            queue.remove();
+            queue.add(cur);
 
-            Iterator<Float> it = q.iterator();
+            Iterator<Float> it = queue.iterator();
             max = 0f;
             while (it.hasNext()) {
                 Float temp = (it.next());
@@ -288,12 +284,13 @@ public class AnalizerA {
                     max = temp;
                 }
             }
-
         }
-        //System.out.println(" s-" + success + " f-" + fail);
+        logger.info(" s-" + success + " f-" + fail);
+
         if (fail != 0) {
             result.add(success / fail);
-            //System.out.println("TOPU£º " + success / fail);
+
+            logger.info("TOPU£º " + success / fail);
         }
     }
 }
