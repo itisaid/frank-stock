@@ -3,15 +3,6 @@
  * 
  * File Created at 2009-1-15
  * $Id$
- * 
- * Copyright 2008 Alibaba.com Croporation Limited.
- * All rights reserved.
- *
- * This software is the confidential and proprietary information of
- * Alibaba Company. ("Confidential Information").  You shall not
- * disclose such Confidential Information and shall use it only in
- * accordance with the terms of the license agreement you entered into
- * with Alibaba.com.
  */
 package net.frank.stock.analize;
 
@@ -78,24 +69,24 @@ public class ReadData {
     public List<Map<String, Object>> queryRecord(String sql) {
         // 执行SQL语句，返回结果集
         List<Map<String, Object>> list = new ArrayList<Map<String, Object>>();
-        ResultSet rs;
         try {
-            rs = stmt.executeQuery(sql);
-
+            ResultSet rs = stmt.executeQuery(sql);
             while (rs.next()) {
                 Map<String, Object> map = new HashMap<String, Object>();
+
                 map.put("trade_date", rs.getDate("trade_date"));
                 map.put("open_price", rs.getFloat("open_price"));
                 map.put("high_price", rs.getFloat("high_price"));
                 map.put("low_price", rs.getFloat("low_price"));
                 map.put("close_price", rs.getFloat("close_price"));
                 map.put("volume", rs.getFloat("volume"));
+
                 list.add(map);
             }
-
         } catch (SQLException e) {
             logger.error("Exception when queryRecord: ", e);
         }
+
         return list;
     }
 }
