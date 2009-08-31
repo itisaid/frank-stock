@@ -7,7 +7,6 @@
 package net.frank.stock.analize;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.Queue;
@@ -192,18 +191,101 @@ public class AnalizerA {
         }
     }
 
+    /**
+     * 计算交易出现新高、收盘比前一天下跌的情况下，后一天收盘反弹的几率
+     * 
+     * @param recordList
+     * @param result
+     * @param cap
+     */
     public static void analizeTopD(List<Map<String, Object>> recordList, List<Float> result, int cap) {
         Float success = 0F;
         Float fail = 0F;
 
-        Queue<Float> queue = new ArrayBlockingQueue<Float>(cap);
+        // 找出交易股数 前N个元素中最大的值，作为历史数据
+        Queue<Float> volumeQueue = new ArrayBlockingQueue<Float>(cap);
         Float max = 0F;
         for (int i = 0; i < cap; i++) {
-            Float temp = (Float) recordList.get(i).get("volume");
-            queue.add(temp);
+            Float volume = (Float) recordList.get(i).get("volume");
+            volumeQueue.add(volume);
 
-            if (temp > max) {
-                max = temp;
+            if (volume > max) {
+                max = volume;
+            }
+        }
+
+        // 分析N之后的元素
+        for (int i = cap; i < recordList.size() - 1; i++) {
+            Float cur = (Float) recordList.get(i).get("volume");
+
+            // 交易股数大于之前历史的最大值，也就是 出现新高
+            if (cur > max) {
+                // 前后三天的 收盘价数据 
+                float c1 = (Float) recordList.get(i - 1).get("close_price");
+                float c2 = (Float) recordList.get(i).get("close_price");
+                float c3 = (Float) recordList.get(i + 1).get("close_price");
+
+                // 收盘是下跌
+                if (c2 < c1) {
+                    if (c2 == c3) {
+                        continue;
+                    }
+
+                    // 后一天的数据反弹
+                    if ((c3 > c2)) {
+                        success++;
+                    }
+                    // 后一天的数据还是下跌
+                    else {
+                        fail++;
+                    }
+                }
+            }
+
+            // 修改Queue中最新的那个数据
+            volumeQueue.remove();
+            volumeQueue.add(cur);
+
+            // 重新找出最大的值
+            max = 0f;
+            for (Float temp : volumeQueue) {
+                if (temp > max) {
+                    max = temp;
+                }
+            }
+
+        }
+        logger.info(" s-" + success + " f-" + fail);
+
+        if (fail != 0) {
+            result.add(success / fail);
+            logger.info("TOPD: " + success / fail);
+        } else {
+            logger.info("TOPD: ALL success!");
+        }
+
+    }
+
+    /**
+     * 计算交易出现新高、收盘比前一天上扬的情况下，后一天的收盘 再度上扬的几率
+     * 
+     * @param recordList
+     * @param result
+     * @param cap
+     */
+    public static void analizeTopU(List<Map<String, Object>> recordList, List<Float> result, int cap) {
+        Float success = 0F;
+        Float fail = 0F;
+
+        Queue<Float> volumeQueue = new ArrayBlockingQueue<Float>(cap);
+
+        Float max = 0F;
+        for (int i = 0; i < cap; i++) {
+            Float volume = (Float) recordList.get(i).get("volume");
+            volumeQueue.add(volume);
+
+            if (volume > max) {
+                max = volume;
             }
         }
 
@@ -213,73 +295,25 @@ public class AnalizerA {
                 float c1 = (Float) recordList.get(i - 1).get("close_price");
                 float c2 = (Float) recordList.get(i).get("close_price");
                 float c3 = (Float) recordList.get(i + 1).get("close_price");
-                if (c2 < c1) {
-                    if (c3 > c2) {
-                        success++;
-                    }
-                    if (c3 < c2) {
-                        fail++;
-                    }
-                }
-            }
-            queue.remove();
-            queue.add(cur);
 
-            Iterator<Float> it = queue.iterator();
-            max = 0f;
-            while (it.hasNext()) {
-                Float temp = (it.next());
-                if (temp > max) {
-                    max = temp;
-                }
-            }
-        }
-        logger.info(" s-" + success + " f-" + fail);
-
-        if (fail != 0) {
-            result.add(success / fail);
-
-            logger.info("TOPD： " + success / fail);
-        }
-    }
-
-    public static void analizeTopU(List<Map<String, Object>> recordList, List<Float> result, int cap) {
-        Float success = 0F;
-        Float fail = 0F;
-
-        Queue<Float> queue = new ArrayBlockingQueue<Float>(cap);
-        Float max = 0F;
-        for (int i = 0; i < cap; i++) {
-            Float temp = (Float) recordList.get(i).get("volume");
-            queue.add(temp);
-
-            if (temp > max) {
-                max = temp;
-            }
-        }
-        for (int i = cap; i < (recordList.size() - 1); i++) {
-            Float cur = (Float) recordList.get(i).get("volume");
-            if (cur > max) {
-                float c1 = (Float) recordList.get(i - 1).get("close_price");
-                float c2 = (Float) recordList.get(i).get("close_price");
-                float c3 = (Float) recordList.get(i + 1).get("close_price");
+                // 收盘数据是上扬
                 if (c2 > c1) {
+                    // 后一天的收盘 再度上扬
                     if (c3 > c2) {
                         success++;
                     }
+                    // 后一天的数据下跌
                     if (c3 < c2) {
                         fail++;
                     }
                 }
             }
 
-            queue.remove();
-            queue.add(cur);
+            volumeQueue.remove();
+            volumeQueue.add(cur);
 
-            Iterator<Float> it = queue.iterator();
             max = 0f;
-            while (it.hasNext()) {
-                Float temp = (it.next());
+            for (Float temp : volumeQueue) {
                 if (temp > max) {
                     max = temp;
                 }
@@ -290,7 +324,9 @@ public class AnalizerA {
         if (fail != 0) {
             result.add(success / fail);
 
-            logger.info("TOPU： " + success / fail);
+            logger.info("TOPU: " + success / fail);
+        } else {
+            logger.info("TOPU: : ALL success!");
         }
     }
 }
